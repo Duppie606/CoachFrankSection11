@@ -1,0 +1,362 @@
+{
+  "READ_THIS_FIRST": {
+    "instruction_for_ai": "DO NOT calculate totals from individual activities. Use the pre-calculated values in 'summary' and 'weekly_summary' sections below. These are already computed accurately from the API data.",
+    "data_period": "Last 7 days (including today)",
+    "quick_stats": {
+      "total_training_hours": 2.17,
+      "total_activities": 2,
+      "total_tss": 85
+    }
+  },
+  "metadata": {
+    "athlete_id": "REDACTED",
+    "last_updated": "2026-01-29T06:07:21.140117",
+    "data_range_days": 7,
+    "version": "1.0.0"
+  },
+  "summary": {
+    "period_description": "Last 7 days of training (including today)",
+    "note": "Duration calculated from API moving_time field. Minor differences (<30s) from Intervals.icu dashboard are normal due to rounding.",
+    "total_duration_decimal_hours": 2.17,
+    "total_activities": 2,
+    "by_activity_type": {
+      "VirtualRide": {
+        "duration_decimal_hours": 2.17,
+        "count": 2,
+        "tss": 85,
+        "distance_km": 53.3
+      }
+    }
+  },
+  "current_status": {
+    "fitness": {
+      "ctl": 18.62095,
+      "atl": 26.403015,
+      "tsb": -7.78,
+      "ramp_rate": -0.26066017
+    },
+    "thresholds": {
+      "ftp": 183,
+      "ftp_indoor": 183,
+      "lthr": 161,
+      "max_hr": 177
+    },
+    "current_metrics": {
+      "weight_kg": 86.709,
+      "resting_hr": 55,
+      "hrv": null
+    }
+  },
+  "recent_activities": [
+    {
+      "id": "activity_1",
+      "date": "2026-01-27T15:53:23",
+      "type": "VirtualRide",
+      "name": "Active Recovery Spin",
+      "duration_hours": 0.75,
+      "distance_km": 17.32,
+      "tss": 19,
+      "intensity_factor": 50.273224,
+      "avg_power": 92,
+      "normalized_power": 92,
+      "avg_hr": 114,
+      "max_hr": 122,
+      "avg_cadence": 87.92274,
+      "avg_speed": 23.0,
+      "max_speed": 48.7,
+      "avg_pace": null,
+      "avg_temp": null,
+      "weather": null,
+      "humidity": null,
+      "wind_speed": null,
+      "work_kj": 247.8,
+      "calories": 247,
+      "carbs_used": 73,
+      "carbs_ingested": null,
+      "variability_index": 1.0,
+      "decoupling": 1.6439184,
+      "elevation_m": 62.000008,
+      "feel": null,
+      "rpe": null,
+      "zone_distribution": {
+        "hr_zones": {
+          "z1_time": 2708,
+          "z2_time": 0,
+          "z3_time": 0,
+          "z4_time": 0,
+          "z5_time": 0,
+          "z6_time": 0,
+          "z7_time": 0
+        },
+        "power_zones": {
+          "z1_time": 2699,
+          "z2_time": 9,
+          "z3_time": 0,
+          "z4_time": 0,
+          "z5_time": 0,
+          "z6_time": 0
+        }
+      }
+    },
+    {
+      "id": "activity_2",
+      "date": "2026-01-25T14:19:45",
+      "type": "VirtualRide",
+      "name": "Weekend Base Volume: 90 RPM Strict",
+      "duration_hours": 1.42,
+      "distance_km": 35.97,
+      "tss": 66,
+      "intensity_factor": 68.30601,
+      "avg_power": 119,
+      "normalized_power": 125,
+      "avg_hr": 138,
+      "max_hr": 160,
+      "avg_cadence": 92.79229,
+      "avg_speed": 25.3,
+      "max_speed": 60.0,
+      "avg_pace": null,
+      "avg_temp": null,
+      "weather": null,
+      "humidity": null,
+      "wind_speed": null,
+      "work_kj": 606.4,
+      "calories": 606,
+      "carbs_used": 159,
+      "carbs_ingested": null,
+      "variability_index": 1.0504202,
+      "decoupling": 1.6488937,
+      "elevation_m": 187.6,
+      "feel": 2,
+      "rpe": 7,
+      "zone_distribution": {
+        "hr_zones": {
+          "z1_time": 1019,
+          "z2_time": 2377,
+          "z3_time": 1431,
+          "z4_time": 282,
+          "z5_time": 0,
+          "z6_time": 0,
+          "z7_time": 0
+        },
+        "power_zones": {
+          "z1_time": 1428,
+          "z2_time": 2344,
+          "z3_time": 981,
+          "z4_time": 309,
+          "z5_time": 42,
+          "z6_time": 5
+        }
+      }
+    }
+  ],
+  "wellness_data": [
+    {
+      "date": "2026-01-23",
+      "weight_kg": null,
+      "resting_hr": 53,
+      "hrv_rmssd": 36.0,
+      "hrv_sdnn": null,
+      "sleep_hours": 9.68,
+      "sleep_quality": 3,
+      "mental_energy": null,
+      "fatigue": 2,
+      "soreness": 2,
+      "avg_sleeping_hr": null
+    },
+    {
+      "date": "2026-01-24",
+      "weight_kg": 86.86,
+      "resting_hr": 51,
+      "hrv_rmssd": 45.0,
+      "hrv_sdnn": null,
+      "sleep_hours": 8.68,
+      "sleep_quality": 2,
+      "mental_energy": null,
+      "fatigue": 2,
+      "soreness": 2,
+      "avg_sleeping_hr": null
+    },
+    {
+      "date": "2026-01-25",
+      "weight_kg": 86.25,
+      "resting_hr": 54,
+      "hrv_rmssd": 38.0,
+      "hrv_sdnn": null,
+      "sleep_hours": 8.2,
+      "sleep_quality": 2,
+      "mental_energy": null,
+      "fatigue": 2,
+      "soreness": 2,
+      "avg_sleeping_hr": null
+    },
+    {
+      "date": "2026-01-26",
+      "weight_kg": 86.86,
+      "resting_hr": 48,
+      "hrv_rmssd": 41.0,
+      "hrv_sdnn": null,
+      "sleep_hours": 8.23,
+      "sleep_quality": 2,
+      "mental_energy": null,
+      "fatigue": 2,
+      "soreness": 2,
+      "avg_sleeping_hr": null
+    },
+    {
+      "date": "2026-01-27",
+      "weight_kg": 86.709,
+      "resting_hr": 53,
+      "hrv_rmssd": 52.0,
+      "hrv_sdnn": null,
+      "sleep_hours": 7.83,
+      "sleep_quality": 2,
+      "mental_energy": null,
+      "fatigue": 2,
+      "soreness": 2,
+      "avg_sleeping_hr": null
+    },
+    {
+      "date": "2026-01-28",
+      "weight_kg": null,
+      "resting_hr": 55,
+      "hrv_rmssd": 37.0,
+      "hrv_sdnn": null,
+      "sleep_hours": 7.6,
+      "sleep_quality": 3,
+      "mental_energy": null,
+      "fatigue": 2,
+      "soreness": 2,
+      "avg_sleeping_hr": null
+    },
+    {
+      "date": "2026-01-29",
+      "weight_kg": null,
+      "resting_hr": null,
+      "hrv_rmssd": null,
+      "hrv_sdnn": null,
+      "sleep_hours": null,
+      "sleep_quality": null,
+      "mental_energy": null,
+      "fatigue": null,
+      "soreness": null,
+      "avg_sleeping_hr": null
+    }
+  ],
+  "planned_workouts": [
+    {
+      "id": "event_1",
+      "date": "2026-01-29T06:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Unstructured Z1/Z2 for metabolic flush. Keep the chain loose, focus on low RPE.\n\nWarmup\n- Gentle Spin Build 5m ramp 40-60% 90rpm\n\nMain Set\n- Extended Active Recovery Spin (Low Z2) 50m 60% 90rpm\n\nCooldown\n- Unload Spin Down 5m ramp 60-40% 85rpm",
+      "planned_tss": 34,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_2",
+      "date": "2026-01-31T06:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Light Zone 2 ride with 4x5 min bursts of 95+ RPM cadence focus. Get the legs turning over without adding fatigue.\n\nWarmup\n- 10 min Progressive Warmup 10m ramp 50-70%\n\nMain Set\n- Z2 Base Settling Period 5m 70%\n- Cadence Focus 1 (Upper Z2) 5m 73% 100rpm\n- Z2 Recovery (Vary Cadence) 5m 68% 88rpm\n- Cadence Focus 2 (Upper Z2) 5m 73% 100rpm\n- Z2 Recovery (Vary Cadence) 5m 68% 88rpm\n- Cadence Focus 3 (Upper Z2) 5m 73% 100rpm\n- Z2 Recovery (Vary Cadence) 5m 68% 88rpm\n- Cadence Focus 4 (Upper Z2) 5m 73% 100rpm\n- Z2 Recovery (Vary Cadence) 5m 68% 88rpm\n\nCooldown\n- 5 min Cooldown 5m ramp 65-45%",
+      "planned_tss": 46,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_3",
+      "date": "2026-02-01T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "[Weekly Plan - Base]\nWarmup\n- Hi Duppie, let's keep it easy today and focus on a smooth spin 10m 40% 85rpm\n\nMain Set\n- Endurance block 1 15m 50% 90rpm\n- Tempo touch 30s 65% 100rpm\n- Endurance block 2 15m 52% 80rpm\n- Tempo touch 30s 65% 100rpm\n- Endurance block 3 15m 50% 95rpm\n- Tempo touch 30s 65% 100rpm\n- Endurance block 4 15m 52% 85rpm\n- Tempo touch 30s 65% 100rpm\n- Endurance block 5 13m 50% 90rpm\n\nCooldown\n- Great job staying disciplined Duppie, recovery is where the gains happen 5m 40% 85rpm",
+      "planned_tss": 37,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_4",
+      "date": "2026-02-02T06:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Establish baseline Z2 effort. Focus strictly on maintaining 90+ RPM cadence targets during warm-up and throughout main set. Maintain VI < 1.05.\n\nWarmup\n- Easy Spin Ramp 5m ramp 50-65% 90rpm\n- Cadence Priming 5m 65% 95rpm\n\nMain Set\n- Z2 Aerobic Base (10 min) 10m 70% 90rpm\n- High Cadence Spin Drill 1/3 1m 75% 100rpm\n- Recovery Spin 1m 55% 85rpm\n- Z2 Sustain 1 (5 min) 5m 70% 90rpm\n- High Cadence Spin Drill 2/3 1m 75% 100rpm\n- Recovery Spin 1m 55% 85rpm\n- Z2 Sustain 2 (5 min) 5m 70% 90rpm\n- High Cadence Spin Drill 3/3 1m 75% 100rpm\n- Recovery Spin 1m 55% 85rpm\n- Z2 Steady Finish (14 min) 14m 70% 90rpm\n\nCooldown\n- Ramp Down 5m ramp 60-40% 85rpm\n\n[CoachWatts]",
+      "planned_tss": 41,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_5",
+      "date": "2026-02-03T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "[Weekly Plan - Base]\nWarmup\n- Hi Duppie let's keep it easy today to help you recover 10m 45% 90rpm\n\nMain Set\n- Aerobic build 8m 55% 95rpm\n- Tempo touch 30s 70% 100rpm\n- Low cadence strength 8m 60% 75rpm\n- Tempo touch 30s 70% 100rpm\n- Natural spin 8m 55% 90rpm\n- Tempo touch 30s 70% 100rpm\n- High cadence spin 8m 60% 100rpm\n- Tempo touch 30s 70% 100rpm\n- Final aerobic block 7m 55% 90rpm\n\nCooldown\n- Great job staying disciplined Duppie enjoy the rest 10m 40% 85rpm",
+      "planned_tss": 30,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_6",
+      "date": "2026-02-04T06:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Solid Z2 duration. Integrate high-cadence bursts (15 sec @ 105 RPM every 10 minutes) to reinforce neuromuscular pathways. Strict adherence to IF target.\n\nWarmup\n- Aerobic Ramp Up 10m ramp 55-70% 85rpm\n\nMain Set\n- Mid-Week Aerobic Efficiency Intervals (7 Repeats) 70m 70% 90rpm\n- Main Set Continuation 5m 70% 90rpm\n\nCooldown\n- Spin Down 5m ramp 70-50% 85rpm\n\n[CoachWatts]",
+      "planned_tss": 71,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_7",
+      "date": "2026-02-07T06:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Primary endurance stimulus. Maintain consistent Z2 effort. Execute 5 minutes of high cadence (>95 RPM) every 30 minutes. Monitor RPE vs. Power.\n\nWarmup\n- Easy Spin Ramp 5m ramp 50-60% 85rpm\n- Z2 Prep 5m ramp 60-70% 90rpm\n\nMain Set\n- Foundational Z2 Block 1 25m 70% 88rpm\n- High Cadence Drill 1 5m 70% 97rpm\n- Foundational Z2 Block 2 25m 70% 88rpm\n- High Cadence Drill 2 5m 70% 97rpm\n- Foundational Z2 Block 3 25m 70% 88rpm\n- High Cadence Drill 3 5m 70% 97rpm\n- Foundational Z2 Block 4 25m 70% 88rpm\n- High Cadence Drill 4 5m 70% 97rpm\n- Final Z2 Sustained Effort 15m 70% 88rpm\n\nCooldown\n- Cool Down Spin 5m ramp 70-50% 80rpm\n\n[CoachWatts]",
+      "planned_tss": 120,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_8",
+      "date": "2026-02-09T06:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Light spin focusing purely on maintaining consistent, high-end Z2 cadence (>90 RPM) execution established in Week 1.\n\nWarmup\n- Gentle Power and Cadence Ramp 5m ramp 50-60% 95rpm\n\nMain Set\n- Z2 Cadence Review Block (Strict 92 RPM) 50m 55% 92rpm\n\nCooldown\n- Easy Unwind Spin 5m ramp 55-40% 90rpm\n\n[CoachWatts]",
+      "planned_tss": 29,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_9",
+      "date": "2026-02-11T06:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Increased mid-week duration (15 min ramp) at Z2/low Z3. Sustained technical focus; VI must remain below 1.05 to ensure power smoothing adaptation.\n\nWarmup\n- Easy Spin 5m ramp 50-60% 85rpm\n- Building Warmup 5m ramp 60-70% 85rpm\n- Z2 Prep 5m ramp 70-75% 85rpm\n\nMain Set\n- Z2 Aerobic Base Build 30m 70% 92rpm\n- Z2 Progression Ramp 15m ramp 70-75% 90rpm\n- Extended Aerobic Efficiency 30m 78% 88rpm\n- Low Torque Cadence Check 5m 60% 80rpm\n\nCooldown\n- Passive Cooldown 10m ramp 60-45% 85rpm\n\n[CoachWatts]",
+      "planned_tss": 87,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_10",
+      "date": "2026-02-14T06:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Maintaining 150 min duration but increasing IF slightly to drive CTL. Mandatory high cadence drills during warm-up and integrated Z2 segments.\n\nWarmup\n- Progressive Ramp to Z2 10m ramp 50-70% 90rpm\n\nMain Set\n- Cadence Spin Ups 3m 60% 105rpm\n- Recovery Spin 2m 55% 85rpm\n- Z2 Endurance Block 1 (High Cadence Focus) 55m 73% 93rpm\n- Mid Z2 Active Recovery 5m 60% 88rpm\n- Z2 Endurance Block 2 (Cadence Variability Check) 55m 73% 90rpm\n- Mid Z2 Active Recovery 5m 60% 88rpm\n- Z2 Final Push 10m 73% 90rpm\n\nCooldown\n- Progressive Cooldown 5m ramp 65-45% 85rpm\n\n[CoachWatts]",
+      "planned_tss": 124,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_11",
+      "date": "2026-02-18T06:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Longest midweek Z2 session yet. Focus is on maintaining duration consistency and high-quality technical execution deep into the session to combat muscular fatigue.\n\nWarmup\n- 10 min Progressive Spin 10m ramp 50-70% 90rpm\n\nMain Set\n- Z2 Efficiency Block - High Cadence 30m 70% 95rpm\n- Muscular Torque Check 1 (80 RPM) 5m 70% 80rpm\n- Sustained Z2 Power (90 RPM) 30m 70% 90rpm\n- Muscular Torque Check 2 (85 RPM) 5m 70% 85rpm\n- Z2 Durability - High Consistency Focus 30m 70% 92rpm\n\nCooldown\n- 10 min Z1 Recovery Spin 10m ramp 60-45% 85rpm\n\n[CoachWatts]",
+      "planned_tss": 93,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_12",
+      "date": "2026-02-19T06:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Dedicated session for neuromuscular reinforcement. Low power, high cadence intervals (e.g., 3x 5 min @ 100+ RPM).\n\nWarmup\n- Easy Spin and Cadence Prep 8m ramp 40-55% 85rpm\n\nMain Set\n- High Cadence Drill 1/3 (105 RPM) 5m 58% 90rpm\n- Active Recovery Spin 3m 45% 80rpm\n- High Cadence Drill 2/3 (105 RPM) 5m 58% 90rpm\n- Active Recovery Spin 3m 45% 80rpm\n- High Cadence Drill 3/3 (105 RPM) 5m 58% 90rpm\n- Active Recovery Spin 3m 45% 80rpm\n\nCooldown\n- Progressive Cooldown 13m ramp 50-35% 85rpm\n\n[CoachWatts]",
+      "planned_tss": 19,
+      "duration_hours": 0.0
+    }
+  ],
+  "weekly_summary": {
+    "total_training_hours": 2.17,
+    "total_tss": 85,
+    "activities_count": 2,
+    "avg_hrv": 41.5,
+    "avg_resting_hr": 52.3
+  }
+}
