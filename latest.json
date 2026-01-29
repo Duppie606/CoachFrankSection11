@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-01-29T20:01:57.677618",
+    "last_updated": "2026-01-29T20:47:52.180726",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -259,96 +259,6 @@
       "type": "WORKOUT",
       "description": "Light Zone 2 ride with 4x5 min bursts of 95+ RPM cadence focus. Get the legs turning over without adding fatigue.\n\nWarmup\n- 10 min Progressive Warmup 10m ramp 50-70%\n\nMain Set\n- Z2 Base Settling Period 5m 70%\n- Cadence Focus 1 (Upper Z2) 5m 73% 100rpm\n- Z2 Recovery (Vary Cadence) 5m 68% 88rpm\n- Cadence Focus 2 (Upper Z2) 5m 73% 100rpm\n- Z2 Recovery (Vary Cadence) 5m 68% 88rpm\n- Cadence Focus 3 (Upper Z2) 5m 73% 100rpm\n- Z2 Recovery (Vary Cadence) 5m 68% 88rpm\n- Cadence Focus 4 (Upper Z2) 5m 73% 100rpm\n- Z2 Recovery (Vary Cadence) 5m 68% 88rpm\n\nCooldown\n- 5 min Cooldown 5m ramp 65-45%",
       "planned_tss": 46,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_3",
-      "date": "2026-02-01T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "[Weekly Plan - Base]\nWarmup\n- Hi Duppie, let's keep it easy today and focus on a smooth spin 10m 40% 85rpm\n\nMain Set\n- Endurance block 1 15m 50% 90rpm\n- Tempo touch 30s 65% 100rpm\n- Endurance block 2 15m 52% 80rpm\n- Tempo touch 30s 65% 100rpm\n- Endurance block 3 15m 50% 95rpm\n- Tempo touch 30s 65% 100rpm\n- Endurance block 4 15m 52% 85rpm\n- Tempo touch 30s 65% 100rpm\n- Endurance block 5 13m 50% 90rpm\n\nCooldown\n- Great job staying disciplined Duppie, recovery is where the gains happen 5m 40% 85rpm",
-      "planned_tss": 37,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_4",
-      "date": "2026-02-02T06:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Establish baseline Z2 effort. Focus strictly on maintaining 90+ RPM cadence targets during warm-up and throughout main set. Maintain VI < 1.05.\n\nWarmup\n- Easy Spin Ramp 5m ramp 50-65% 90rpm\n- Cadence Priming 5m 65% 95rpm\n\nMain Set\n- Z2 Aerobic Base (10 min) 10m 70% 90rpm\n- High Cadence Spin Drill 1/3 1m 75% 100rpm\n- Recovery Spin 1m 55% 85rpm\n- Z2 Sustain 1 (5 min) 5m 70% 90rpm\n- High Cadence Spin Drill 2/3 1m 75% 100rpm\n- Recovery Spin 1m 55% 85rpm\n- Z2 Sustain 2 (5 min) 5m 70% 90rpm\n- High Cadence Spin Drill 3/3 1m 75% 100rpm\n- Recovery Spin 1m 55% 85rpm\n- Z2 Steady Finish (14 min) 14m 70% 90rpm\n\nCooldown\n- Ramp Down 5m ramp 60-40% 85rpm\n\n[CoachWatts]",
-      "planned_tss": 41,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_5",
-      "date": "2026-02-03T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "[Weekly Plan - Base]\nWarmup\n- Hi Duppie let's keep it easy today to help you recover 10m 45% 90rpm\n\nMain Set\n- Aerobic build 8m 55% 95rpm\n- Tempo touch 30s 70% 100rpm\n- Low cadence strength 8m 60% 75rpm\n- Tempo touch 30s 70% 100rpm\n- Natural spin 8m 55% 90rpm\n- Tempo touch 30s 70% 100rpm\n- High cadence spin 8m 60% 100rpm\n- Tempo touch 30s 70% 100rpm\n- Final aerobic block 7m 55% 90rpm\n\nCooldown\n- Great job staying disciplined Duppie enjoy the rest 10m 40% 85rpm",
-      "planned_tss": 30,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_6",
-      "date": "2026-02-04T06:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Solid Z2 duration. Integrate high-cadence bursts (15 sec @ 105 RPM every 10 minutes) to reinforce neuromuscular pathways. Strict adherence to IF target.\n\nWarmup\n- Aerobic Ramp Up 10m ramp 55-70% 85rpm\n\nMain Set\n- Mid-Week Aerobic Efficiency Intervals (7 Repeats) 70m 70% 90rpm\n- Main Set Continuation 5m 70% 90rpm\n\nCooldown\n- Spin Down 5m ramp 70-50% 85rpm\n\n[CoachWatts]",
-      "planned_tss": 71,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_7",
-      "date": "2026-02-07T06:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Primary endurance stimulus. Maintain consistent Z2 effort. Execute 5 minutes of high cadence (>95 RPM) every 30 minutes. Monitor RPE vs. Power.\n\nWarmup\n- Easy Spin Ramp 5m ramp 50-60% 85rpm\n- Z2 Prep 5m ramp 60-70% 90rpm\n\nMain Set\n- Foundational Z2 Block 1 25m 70% 88rpm\n- High Cadence Drill 1 5m 70% 97rpm\n- Foundational Z2 Block 2 25m 70% 88rpm\n- High Cadence Drill 2 5m 70% 97rpm\n- Foundational Z2 Block 3 25m 70% 88rpm\n- High Cadence Drill 3 5m 70% 97rpm\n- Foundational Z2 Block 4 25m 70% 88rpm\n- High Cadence Drill 4 5m 70% 97rpm\n- Final Z2 Sustained Effort 15m 70% 88rpm\n\nCooldown\n- Cool Down Spin 5m ramp 70-50% 80rpm\n\n[CoachWatts]",
-      "planned_tss": 120,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_8",
-      "date": "2026-02-09T06:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Light spin focusing purely on maintaining consistent, high-end Z2 cadence (>90 RPM) execution established in Week 1.\n\nWarmup\n- Gentle Power and Cadence Ramp 5m ramp 50-60% 95rpm\n\nMain Set\n- Z2 Cadence Review Block (Strict 92 RPM) 50m 55% 92rpm\n\nCooldown\n- Easy Unwind Spin 5m ramp 55-40% 90rpm\n\n[CoachWatts]",
-      "planned_tss": 29,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_9",
-      "date": "2026-02-11T06:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Increased mid-week duration (15 min ramp) at Z2/low Z3. Sustained technical focus; VI must remain below 1.05 to ensure power smoothing adaptation.\n\nWarmup\n- Easy Spin 5m ramp 50-60% 85rpm\n- Building Warmup 5m ramp 60-70% 85rpm\n- Z2 Prep 5m ramp 70-75% 85rpm\n\nMain Set\n- Z2 Aerobic Base Build 30m 70% 92rpm\n- Z2 Progression Ramp 15m ramp 70-75% 90rpm\n- Extended Aerobic Efficiency 30m 78% 88rpm\n- Low Torque Cadence Check 5m 60% 80rpm\n\nCooldown\n- Passive Cooldown 10m ramp 60-45% 85rpm\n\n[CoachWatts]",
-      "planned_tss": 87,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_10",
-      "date": "2026-02-14T06:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Maintaining 150 min duration but increasing IF slightly to drive CTL. Mandatory high cadence drills during warm-up and integrated Z2 segments.\n\nWarmup\n- Progressive Ramp to Z2 10m ramp 50-70% 90rpm\n\nMain Set\n- Cadence Spin Ups 3m 60% 105rpm\n- Recovery Spin 2m 55% 85rpm\n- Z2 Endurance Block 1 (High Cadence Focus) 55m 73% 93rpm\n- Mid Z2 Active Recovery 5m 60% 88rpm\n- Z2 Endurance Block 2 (Cadence Variability Check) 55m 73% 90rpm\n- Mid Z2 Active Recovery 5m 60% 88rpm\n- Z2 Final Push 10m 73% 90rpm\n\nCooldown\n- Progressive Cooldown 5m ramp 65-45% 85rpm\n\n[CoachWatts]",
-      "planned_tss": 124,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_11",
-      "date": "2026-02-18T06:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Longest midweek Z2 session yet. Focus is on maintaining duration consistency and high-quality technical execution deep into the session to combat muscular fatigue.\n\nWarmup\n- 10 min Progressive Spin 10m ramp 50-70% 90rpm\n\nMain Set\n- Z2 Efficiency Block - High Cadence 30m 70% 95rpm\n- Muscular Torque Check 1 (80 RPM) 5m 70% 80rpm\n- Sustained Z2 Power (90 RPM) 30m 70% 90rpm\n- Muscular Torque Check 2 (85 RPM) 5m 70% 85rpm\n- Z2 Durability - High Consistency Focus 30m 70% 92rpm\n\nCooldown\n- 10 min Z1 Recovery Spin 10m ramp 60-45% 85rpm\n\n[CoachWatts]",
-      "planned_tss": 93,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_12",
-      "date": "2026-02-19T06:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Dedicated session for neuromuscular reinforcement. Low power, high cadence intervals (e.g., 3x 5 min @ 100+ RPM).\n\nWarmup\n- Easy Spin and Cadence Prep 8m ramp 40-55% 85rpm\n\nMain Set\n- High Cadence Drill 1/3 (105 RPM) 5m 58% 90rpm\n- Active Recovery Spin 3m 45% 80rpm\n- High Cadence Drill 2/3 (105 RPM) 5m 58% 90rpm\n- Active Recovery Spin 3m 45% 80rpm\n- High Cadence Drill 3/3 (105 RPM) 5m 58% 90rpm\n- Active Recovery Spin 3m 45% 80rpm\n\nCooldown\n- Progressive Cooldown 13m ramp 50-35% 85rpm\n\n[CoachWatts]",
-      "planned_tss": 19,
       "duration_hours": 0.0
     }
   ],
