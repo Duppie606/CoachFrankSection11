@@ -3,28 +3,28 @@
     "instruction_for_ai": "DO NOT calculate totals from individual activities. Use the pre-calculated values in 'summary' and 'weekly_summary' sections below. These are already computed accurately from the API data.",
     "data_period": "Last 7 days (including today)",
     "quick_stats": {
-      "total_training_hours": 2.17,
-      "total_activities": 2,
-      "total_tss": 85
+      "total_training_hours": 3.17,
+      "total_activities": 3,
+      "total_tss": 120
     }
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-01-29T23:01:17.672410",
+    "last_updated": "2026-01-29T23:42:13.538738",
     "data_range_days": 7,
     "version": "1.0.0"
   },
   "summary": {
     "period_description": "Last 7 days of training (including today)",
     "note": "Duration calculated from API moving_time field. Minor differences (<30s) from Intervals.icu dashboard are normal due to rounding.",
-    "total_duration_decimal_hours": 2.17,
-    "total_activities": 2,
+    "total_duration_decimal_hours": 3.17,
+    "total_activities": 3,
     "by_activity_type": {
       "VirtualRide": {
-        "duration_decimal_hours": 2.17,
-        "count": 2,
-        "tss": 85,
-        "distance_km": 53.3
+        "duration_decimal_hours": 3.17,
+        "count": 3,
+        "tss": 120,
+        "distance_km": 71.9
       }
     }
   },
@@ -50,6 +50,56 @@
   "recent_activities": [
     {
       "id": "activity_1",
+      "date": "2026-01-29T16:06:54",
+      "type": "VirtualRide",
+      "name": "TrainingPeaks Virtual - Workout: Active Recovery Spin: VI and Cadence Consistency",
+      "duration_hours": 1.0,
+      "distance_km": 18.65,
+      "tss": 35,
+      "intensity_factor": 59.01639,
+      "avg_power": 106,
+      "normalized_power": 108,
+      "avg_hr": 118,
+      "max_hr": 126,
+      "avg_cadence": 89.9069,
+      "avg_speed": 18.6,
+      "max_speed": 79.2,
+      "avg_pace": null,
+      "avg_temp": null,
+      "weather": null,
+      "humidity": null,
+      "wind_speed": null,
+      "work_kj": 384.2,
+      "calories": 384,
+      "carbs_used": 102,
+      "carbs_ingested": null,
+      "variability_index": 1.018868,
+      "decoupling": -0.026085159,
+      "elevation_m": 176.0,
+      "feel": null,
+      "rpe": null,
+      "zone_distribution": {
+        "hr_zones": {
+          "z1_time": 3613,
+          "z2_time": 0,
+          "z3_time": 0,
+          "z4_time": 0,
+          "z5_time": 0,
+          "z6_time": 0,
+          "z7_time": 0
+        },
+        "power_zones": {
+          "z1_time": 730,
+          "z2_time": 2883,
+          "z3_time": 0,
+          "z4_time": 0,
+          "z5_time": 0,
+          "z6_time": 0
+        }
+      }
+    },
+    {
+      "id": "activity_2",
       "date": "2026-01-27T15:53:23",
       "type": "VirtualRide",
       "name": "TrainingPeaks Virtual - Workout: Active Recovery Spin",
@@ -99,7 +149,7 @@
       }
     },
     {
-      "id": "activity_2",
+      "id": "activity_3",
       "date": "2026-01-25T14:19:45",
       "type": "VirtualRide",
       "name": "TrainingPeaks Virtual - Workout: Weekend Base Volume: 90 RPM Strict",
@@ -263,9 +313,9 @@
     }
   ],
   "weekly_summary": {
-    "total_training_hours": 2.17,
-    "total_tss": 85,
-    "activities_count": 2,
+    "total_training_hours": 3.17,
+    "total_tss": 120,
+    "activities_count": 3,
     "avg_hrv": 41.3,
     "avg_resting_hr": 52.1
   }
