@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-01-29T16:46:47.328649",
+    "last_updated": "2026-01-29T17:38:33.710714",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -52,7 +52,7 @@
       "id": "activity_1",
       "date": "2026-01-27T15:53:23",
       "type": "VirtualRide",
-      "name": "Active Recovery Spin",
+      "name": "TrainingPeaks Virtual - Workout: Active Recovery Spin",
       "duration_hours": 0.75,
       "distance_km": 17.32,
       "tss": 19,
@@ -102,7 +102,7 @@
       "id": "activity_2",
       "date": "2026-01-25T14:19:45",
       "type": "VirtualRide",
-      "name": "Weekend Base Volume: 90 RPM Strict",
+      "name": "TrainingPeaks Virtual - Workout: Weekend Base Volume: 90 RPM Strict",
       "duration_hours": 1.42,
       "distance_km": 35.97,
       "tss": 66,
