@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-01-29T12:00:41.351847",
+    "last_updated": "2026-01-29T13:33:16.484085",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -30,10 +30,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 18.62095,
-      "atl": 26.403015,
-      "tsb": -7.78,
-      "ramp_rate": -0.26066017
+      "ctl": 18.64448,
+      "atl": 26.536137,
+      "tsb": -7.89,
+      "ramp_rate": -0.23713112
     },
     "thresholds": {
       "ftp": 183,
@@ -42,9 +42,9 @@
       "max_hr": 177
     },
     "current_metrics": {
-      "weight_kg": 86.709,
-      "resting_hr": 56,
-      "hrv": null
+      "weight_kg": 86.86,
+      "resting_hr": 54,
+      "hrv": 40.0
     }
   },
   "recent_activities": [
@@ -230,12 +230,12 @@
     },
     {
       "date": "2026-01-29",
-      "weight_kg": null,
-      "resting_hr": 56,
-      "hrv_rmssd": null,
+      "weight_kg": 86.86,
+      "resting_hr": 54,
+      "hrv_rmssd": 40.0,
       "hrv_sdnn": null,
-      "sleep_hours": null,
-      "sleep_quality": null,
+      "sleep_hours": 8.73,
+      "sleep_quality": 2,
       "mental_energy": null,
       "fatigue": null,
       "soreness": null,
@@ -245,11 +245,11 @@
   "planned_workouts": [
     {
       "id": "event_1",
-      "date": "2026-01-29T06:00:00",
+      "date": "2026-01-29T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Unstructured Z1/Z2 for metabolic flush. Keep the chain loose, focus on low RPE.\n\nWarmup\n- Gentle Spin Build 5m ramp 40-60% 90rpm\n\nMain Set\n- Extended Active Recovery Spin (Low Z2) 50m 60% 90rpm\n\nCooldown\n- Unload Spin Down 5m ramp 60-40% 85rpm",
-      "planned_tss": 34,
+      "description": "Utilize the low-intensity environment of this Z1/Z2 spin to enforce neuromuscular discipline. Specifically, maintain the Variability Index (VI) as close to 1.00 as objectively possible (Power Smoothing focus) and sustain an average cadence above 85 RPM. This transforms the recovery ride into a focused technical efficiency session, addressing chronic deficits during low load.\n\nZone Adjustments: Strictly maintain power output within Zone 1 and low Zone 2 (<128W, based on FTP 183W) to ensure recovery remains the primary physiological stimulus.\n\nWarmup\n- Z1/Z2 Gradual Ramp 10m ramp 45-60% 90rpm\n\nMain Set\n- Sustained Technical Recovery Spin 45m 62% 90rpm\n\nCooldown\n- Cadence Cooldown 5m ramp 50-30% 85rpm",
+      "planned_tss": 35,
       "duration_hours": 0.0
     },
     {
@@ -356,7 +356,7 @@
     "total_training_hours": 2.17,
     "total_tss": 85,
     "activities_count": 2,
-    "avg_hrv": 41.5,
-    "avg_resting_hr": 52.4
+    "avg_hrv": 41.3,
+    "avg_resting_hr": 52.1
   }
 }
