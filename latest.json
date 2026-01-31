@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-01-31T12:52:07.739342",
+    "last_updated": "2026-01-31T13:42:32.361687",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -300,6 +300,33 @@
       "type": "WORKOUT",
       "description": "Light Zone 2 ride with 4x5 min bursts of 95+ RPM cadence focus. Get the legs turning over without adding fatigue.\n\nWarmup\n- 10 min Progressive Warmup 10m ramp 50-70%\n\nMain Set\n- Z2 Base Settling Period 5m 70%\n- Cadence Focus 1 (Upper Z2) 5m 73% 100rpm\n- Z2 Recovery (Vary Cadence) 5m 68% 88rpm\n- Cadence Focus 2 (Upper Z2) 5m 73% 100rpm\n- Z2 Recovery (Vary Cadence) 5m 68% 88rpm\n- Cadence Focus 3 (Upper Z2) 5m 73% 100rpm\n- Z2 Recovery (Vary Cadence) 5m 68% 88rpm\n- Cadence Focus 4 (Upper Z2) 5m 73% 100rpm\n- Z2 Recovery (Vary Cadence) 5m 68% 88rpm\n\nCooldown\n- 5 min Cooldown 5m ramp 65-45%",
       "planned_tss": 46,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_2",
+      "date": "2026-02-02T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "[Weekly Plan - Base]\nWarmup\n- Hello Duppie let's settle into a steady rhythm 15m 50% 90rpm\n\nMain Set\n5x\n- Aerobic steady state 10m 65% 85rpm\n- Tempo touch 1m 78% 95rpm\n- Cadence drill 2m 60% 100rpm\n\nCooldown\n- Great work Duppie keep the legs moving as you spin down 10m 45% 85rpm",
+      "planned_tss": 57,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_3",
+      "date": "2026-02-04T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "[Weekly Plan - Base]\nWarmup\n- Hi Duppie let's settle into a steady rhythm 10m 50% 90rpm\n\nMain Set\n- Aerobic Base 10m 65% 85rpm\n- Tempo Touch 5m 75% 95rpm\n- Aerobic Base 10m 65% 80rpm\n- Tempo Touch 5m 75% 90rpm\n- Aerobic Base 10m 65% 85rpm\n\n3x\n- Cadence Pickup 1m 80% 100rpm\n- Recovery 1m 50% 85rpm\n\nCooldown\n- Great job Duppie keep the legs moving 4m 45% 90rpm",
+      "planned_tss": 42,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_4",
+      "date": "2026-02-05T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "[Weekly Plan - Base]\nWarmup\n- Hi Duppie let's get the blood flowing today 15m 45% 90rpm\n\nMain Set\n- Cadence Spin 10m 50% 95rpm\n- Randonneur Tempo Touch 1m 68% 85rpm\n- Recovery Spin 9m 45% 80rpm\n- Cadence Spin 10m 50% 75rpm\n- Randonneur Tempo Touch 1m 68% 85rpm\n- Recovery Spin 9m 45% 90rpm\n- Cadence Spin 10m 50% 100rpm\n- Randonneur Tempo Touch 1m 68% 85rpm\n- Recovery Spin 9m 45% 85rpm\n\nCooldown\n- Great recovery ride Duppie keep those legs fresh 15m 40% 90rpm",
+      "planned_tss": 34,
       "duration_hours": 0.0
     }
   ],
