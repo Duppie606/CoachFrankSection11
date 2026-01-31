@@ -3,37 +3,37 @@
     "instruction_for_ai": "DO NOT calculate totals from individual activities. Use the pre-calculated values in 'summary' and 'weekly_summary' sections below. These are already computed accurately from the API data.",
     "data_period": "Last 7 days (including today)",
     "quick_stats": {
-      "total_training_hours": 3.17,
-      "total_activities": 3,
-      "total_tss": 120
+      "total_training_hours": 4.18,
+      "total_activities": 4,
+      "total_tss": 167
     }
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-01-31T17:01:08.733417",
+    "last_updated": "2026-01-31T17:41:29.476168",
     "data_range_days": 7,
     "version": "1.0.0"
   },
   "summary": {
     "period_description": "Last 7 days of training (including today)",
     "note": "Duration calculated from API moving_time field. Minor differences (<30s) from Intervals.icu dashboard are normal due to rounding.",
-    "total_duration_decimal_hours": 3.17,
-    "total_activities": 3,
+    "total_duration_decimal_hours": 4.18,
+    "total_activities": 4,
     "by_activity_type": {
       "VirtualRide": {
-        "duration_decimal_hours": 3.17,
-        "count": 3,
-        "tss": 120,
-        "distance_km": 71.9
+        "duration_decimal_hours": 4.18,
+        "count": 4,
+        "tss": 167,
+        "distance_km": 97.7
       }
     }
   },
   "current_status": {
     "fitness": {
-      "ctl": 18.859756,
-      "atl": 26.06492,
-      "tsb": -7.21,
-      "ramp_rate": 0.85619736
+      "ctl": 18.883286,
+      "atl": 26.198042,
+      "tsb": -7.31,
+      "ramp_rate": 0.8797264
     },
     "thresholds": {
       "ftp": 183,
@@ -50,6 +50,56 @@
   "recent_activities": [
     {
       "id": "activity_1",
+      "date": "2026-01-31T10:12:59",
+      "type": "VirtualRide",
+      "name": "Light Z2 Cadence Drill",
+      "duration_hours": 1.0,
+      "distance_km": 25.76,
+      "tss": 47,
+      "intensity_factor": 68.30601,
+      "avg_power": 123,
+      "normalized_power": 125,
+      "avg_hr": 134,
+      "max_hr": 151,
+      "avg_cadence": 91.68256,
+      "avg_speed": 25.7,
+      "max_speed": 54.0,
+      "avg_pace": null,
+      "avg_temp": null,
+      "weather": null,
+      "humidity": null,
+      "wind_speed": null,
+      "work_kj": 444.4,
+      "calories": 444,
+      "carbs_used": 106,
+      "carbs_ingested": null,
+      "variability_index": 1.0162601,
+      "decoupling": 5.4553576,
+      "elevation_m": 146.40001,
+      "feel": 1,
+      "rpe": 4,
+      "zone_distribution": {
+        "hr_zones": {
+          "z1_time": 1015,
+          "z2_time": 1748,
+          "z3_time": 833,
+          "z4_time": 11,
+          "z5_time": 0,
+          "z6_time": 0,
+          "z7_time": 0
+        },
+        "power_zones": {
+          "z1_time": 302,
+          "z2_time": 3300,
+          "z3_time": 5,
+          "z4_time": 0,
+          "z5_time": 0,
+          "z6_time": 0
+        }
+      }
+    },
+    {
+      "id": "activity_2",
       "date": "2026-01-29T16:06:54",
       "type": "VirtualRide",
       "name": "TrainingPeaks Virtual - Workout: Active Recovery Spin: VI and Cadence Consistency",
@@ -99,7 +149,7 @@
       }
     },
     {
-      "id": "activity_2",
+      "id": "activity_3",
       "date": "2026-01-27T15:53:23",
       "type": "VirtualRide",
       "name": "TrainingPeaks Virtual - Workout: Active Recovery Spin",
@@ -149,7 +199,7 @@
       }
     },
     {
-      "id": "activity_3",
+      "id": "activity_4",
       "date": "2026-01-25T14:19:45",
       "type": "VirtualRide",
       "name": "TrainingPeaks Virtual - Workout: Weekend Base Volume: 90 RPM Strict",
@@ -331,9 +381,9 @@
     }
   ],
   "weekly_summary": {
-    "total_training_hours": 3.17,
-    "total_tss": 120,
-    "activities_count": 3,
+    "total_training_hours": 4.18,
+    "total_tss": 167,
+    "activities_count": 4,
     "avg_hrv": 41.0,
     "avg_resting_hr": 52.3
   }
