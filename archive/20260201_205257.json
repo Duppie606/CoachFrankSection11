@@ -1,0 +1,303 @@
+{
+  "READ_THIS_FIRST": {
+    "instruction_for_ai": "DO NOT calculate totals from individual activities. Use the pre-calculated values in 'summary' and 'weekly_summary' sections below. These are already computed accurately from the API data.",
+    "data_period": "Last 7 days (including today)",
+    "quick_stats": {
+      "total_training_hours": 2.76,
+      "total_activities": 3,
+      "total_tss": 101
+    }
+  },
+  "metadata": {
+    "athlete_id": "REDACTED",
+    "last_updated": "2026-02-01T20:29:17.953642",
+    "data_range_days": 7,
+    "version": "1.0.0"
+  },
+  "summary": {
+    "period_description": "Last 7 days of training (including today)",
+    "note": "Duration calculated from API moving_time field. Minor differences (<30s) from Intervals.icu dashboard are normal due to rounding.",
+    "total_duration_decimal_hours": 2.76,
+    "total_activities": 3,
+    "by_activity_type": {
+      "VirtualRide": {
+        "duration_decimal_hours": 2.76,
+        "count": 3,
+        "tss": 101,
+        "distance_km": 61.7
+      }
+    }
+  },
+  "current_status": {
+    "fitness": {
+      "ctl": 18.438993,
+      "atl": 22.710503,
+      "tsb": -4.27,
+      "ramp_rate": -0.69384
+    },
+    "thresholds": {
+      "ftp": 183,
+      "ftp_indoor": 183,
+      "lthr": 161,
+      "max_hr": 177
+    },
+    "current_metrics": {
+      "weight_kg": 87.029,
+      "resting_hr": 56,
+      "hrv": 35.0
+    }
+  },
+  "recent_activities": [
+    {
+      "id": "activity_1",
+      "date": "2026-01-31T10:12:59",
+      "type": "VirtualRide",
+      "name": "Light Z2 Cadence Drill",
+      "duration_hours": 1.0,
+      "distance_km": 25.76,
+      "tss": 47,
+      "intensity_factor": 68.30601,
+      "avg_power": 123,
+      "normalized_power": 125,
+      "avg_hr": 134,
+      "max_hr": 151,
+      "avg_cadence": 91.68256,
+      "avg_speed": 25.7,
+      "max_speed": 54.0,
+      "avg_pace": null,
+      "avg_temp": null,
+      "weather": null,
+      "humidity": null,
+      "wind_speed": null,
+      "work_kj": 444.4,
+      "calories": 444,
+      "carbs_used": 106,
+      "carbs_ingested": null,
+      "variability_index": 1.0162601,
+      "decoupling": 5.4553576,
+      "elevation_m": 146.40001,
+      "feel": 1,
+      "rpe": 4,
+      "zone_distribution": {
+        "hr_zones": {
+          "z1_time": 1015,
+          "z2_time": 1748,
+          "z3_time": 833,
+          "z4_time": 11,
+          "z5_time": 0,
+          "z6_time": 0,
+          "z7_time": 0
+        },
+        "power_zones": {
+          "z1_time": 302,
+          "z2_time": 3300,
+          "z3_time": 5,
+          "z4_time": 0,
+          "z5_time": 0,
+          "z6_time": 0
+        }
+      }
+    },
+    {
+      "id": "activity_2",
+      "date": "2026-01-29T16:06:54",
+      "type": "VirtualRide",
+      "name": "TrainingPeaks Virtual - Workout: Active Recovery Spin: VI and Cadence Consistency",
+      "duration_hours": 1.0,
+      "distance_km": 18.65,
+      "tss": 35,
+      "intensity_factor": 59.01639,
+      "avg_power": 106,
+      "normalized_power": 108,
+      "avg_hr": 118,
+      "max_hr": 126,
+      "avg_cadence": 89.9069,
+      "avg_speed": 18.6,
+      "max_speed": 79.2,
+      "avg_pace": null,
+      "avg_temp": null,
+      "weather": null,
+      "humidity": null,
+      "wind_speed": null,
+      "work_kj": 384.2,
+      "calories": 384,
+      "carbs_used": 102,
+      "carbs_ingested": null,
+      "variability_index": 1.018868,
+      "decoupling": -0.026085159,
+      "elevation_m": 176.0,
+      "feel": null,
+      "rpe": null,
+      "zone_distribution": {
+        "hr_zones": {
+          "z1_time": 3613,
+          "z2_time": 0,
+          "z3_time": 0,
+          "z4_time": 0,
+          "z5_time": 0,
+          "z6_time": 0,
+          "z7_time": 0
+        },
+        "power_zones": {
+          "z1_time": 730,
+          "z2_time": 2883,
+          "z3_time": 0,
+          "z4_time": 0,
+          "z5_time": 0,
+          "z6_time": 0
+        }
+      }
+    },
+    {
+      "id": "activity_3",
+      "date": "2026-01-27T15:53:23",
+      "type": "VirtualRide",
+      "name": "TrainingPeaks Virtual - Workout: Active Recovery Spin",
+      "duration_hours": 0.75,
+      "distance_km": 17.32,
+      "tss": 19,
+      "intensity_factor": 50.273224,
+      "avg_power": 92,
+      "normalized_power": 92,
+      "avg_hr": 114,
+      "max_hr": 122,
+      "avg_cadence": 87.92274,
+      "avg_speed": 23.0,
+      "max_speed": 48.7,
+      "avg_pace": null,
+      "avg_temp": null,
+      "weather": null,
+      "humidity": null,
+      "wind_speed": null,
+      "work_kj": 247.8,
+      "calories": 247,
+      "carbs_used": 73,
+      "carbs_ingested": null,
+      "variability_index": 1.0,
+      "decoupling": 1.6439184,
+      "elevation_m": 62.000008,
+      "feel": null,
+      "rpe": null,
+      "zone_distribution": {
+        "hr_zones": {
+          "z1_time": 2708,
+          "z2_time": 0,
+          "z3_time": 0,
+          "z4_time": 0,
+          "z5_time": 0,
+          "z6_time": 0,
+          "z7_time": 0
+        },
+        "power_zones": {
+          "z1_time": 2699,
+          "z2_time": 9,
+          "z3_time": 0,
+          "z4_time": 0,
+          "z5_time": 0,
+          "z6_time": 0
+        }
+      }
+    }
+  ],
+  "wellness_data": [
+    {
+      "date": "2026-01-26",
+      "weight_kg": 86.86,
+      "resting_hr": 48,
+      "hrv_rmssd": 41.0,
+      "hrv_sdnn": null,
+      "sleep_hours": 8.23,
+      "sleep_quality": 2,
+      "mental_energy": null,
+      "fatigue": 2,
+      "soreness": 2,
+      "avg_sleeping_hr": null
+    },
+    {
+      "date": "2026-01-27",
+      "weight_kg": 86.709,
+      "resting_hr": 53,
+      "hrv_rmssd": 52.0,
+      "hrv_sdnn": null,
+      "sleep_hours": 7.83,
+      "sleep_quality": 2,
+      "mental_energy": null,
+      "fatigue": 2,
+      "soreness": 2,
+      "avg_sleeping_hr": null
+    },
+    {
+      "date": "2026-01-28",
+      "weight_kg": null,
+      "resting_hr": 52,
+      "hrv_rmssd": 37.0,
+      "hrv_sdnn": null,
+      "sleep_hours": 7.6,
+      "sleep_quality": 3,
+      "mental_energy": null,
+      "fatigue": 2,
+      "soreness": 2,
+      "avg_sleeping_hr": null
+    },
+    {
+      "date": "2026-01-29",
+      "weight_kg": 86.86,
+      "resting_hr": 53,
+      "hrv_rmssd": 40.0,
+      "hrv_sdnn": null,
+      "sleep_hours": 8.73,
+      "sleep_quality": 2,
+      "mental_energy": null,
+      "fatigue": null,
+      "soreness": null,
+      "avg_sleeping_hr": null
+    },
+    {
+      "date": "2026-01-30",
+      "weight_kg": 86.636246,
+      "resting_hr": 51,
+      "hrv_rmssd": 40.0,
+      "hrv_sdnn": null,
+      "sleep_hours": 9.45,
+      "sleep_quality": 2,
+      "mental_energy": null,
+      "fatigue": 2,
+      "soreness": 2,
+      "avg_sleeping_hr": null
+    },
+    {
+      "date": "2026-01-31",
+      "weight_kg": 87.029,
+      "resting_hr": 55,
+      "hrv_rmssd": 39.0,
+      "hrv_sdnn": null,
+      "sleep_hours": 8.92,
+      "sleep_quality": 3,
+      "mental_energy": null,
+      "fatigue": 2,
+      "soreness": 2,
+      "avg_sleeping_hr": null
+    },
+    {
+      "date": "2026-02-01",
+      "weight_kg": 87.029,
+      "resting_hr": 56,
+      "hrv_rmssd": 35.0,
+      "hrv_sdnn": null,
+      "sleep_hours": 9.9,
+      "sleep_quality": 3,
+      "mental_energy": null,
+      "fatigue": 2,
+      "soreness": 2,
+      "avg_sleeping_hr": null
+    }
+  ],
+  "planned_workouts": [],
+  "weekly_summary": {
+    "total_training_hours": 2.76,
+    "total_tss": 101,
+    "activities_count": 3,
+    "avg_hrv": 40.6,
+    "avg_resting_hr": 52.6
+  }
+}
