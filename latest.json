@@ -3,37 +3,37 @@
     "instruction_for_ai": "DO NOT calculate totals from individual activities. Use the pre-calculated values in 'summary' and 'weekly_summary' sections below. These are already computed accurately from the API data.",
     "data_period": "Last 7 days (including today)",
     "quick_stats": {
-      "total_training_hours": 2.76,
-      "total_activities": 3,
-      "total_tss": 101
+      "total_training_hours": 4.26,
+      "total_activities": 4,
+      "total_tss": 175
     }
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-02T18:05:31.127743",
+    "last_updated": "2026-02-02T23:30:33.784805",
     "data_range_days": 7,
     "version": "1.0.0"
   },
   "summary": {
     "period_description": "Last 7 days of training (including today)",
     "note": "Duration calculated from API moving_time field. Minor differences (<30s) from Intervals.icu dashboard are normal due to rounding.",
-    "total_duration_decimal_hours": 2.76,
-    "total_activities": 3,
+    "total_duration_decimal_hours": 4.26,
+    "total_activities": 4,
     "by_activity_type": {
       "VirtualRide": {
-        "duration_decimal_hours": 2.76,
-        "count": 3,
-        "tss": 101,
-        "distance_km": 61.7
+        "duration_decimal_hours": 4.26,
+        "count": 4,
+        "tss": 175,
+        "distance_km": 103.5
       }
     }
   },
   "current_status": {
     "fitness": {
-      "ctl": 19.699194,
-      "atl": 29.272024,
-      "tsb": -9.57,
-      "ramp_rate": 1.0165234
+      "ctl": 19.74625,
+      "atl": 29.538269,
+      "tsb": -9.79,
+      "ramp_rate": 1.0635796
     },
     "thresholds": {
       "ftp": 183,
@@ -50,6 +50,56 @@
   "recent_activities": [
     {
       "id": "activity_1",
+      "date": "2026-02-02T15:53:00",
+      "type": "VirtualRide",
+      "name": "TrainingPeaks Virtual - Workout: IntervalCoach - Endurance",
+      "duration_hours": 1.5,
+      "distance_km": 41.79,
+      "tss": 74,
+      "intensity_factor": 69.94536,
+      "avg_power": 126,
+      "normalized_power": 128,
+      "avg_hr": 126,
+      "max_hr": 144,
+      "avg_cadence": 84.993706,
+      "avg_speed": 27.8,
+      "max_speed": 51.1,
+      "avg_pace": null,
+      "avg_temp": null,
+      "weather": null,
+      "humidity": null,
+      "wind_speed": null,
+      "work_kj": 679.6,
+      "calories": 679,
+      "carbs_used": 167,
+      "carbs_ingested": null,
+      "variability_index": 1.0158731,
+      "decoupling": -1.3723333,
+      "elevation_m": 98.000015,
+      "feel": 1,
+      "rpe": 5,
+      "zone_distribution": {
+        "hr_zones": {
+          "z1_time": 4015,
+          "z2_time": 1391,
+          "z3_time": 3,
+          "z4_time": 0,
+          "z5_time": 0,
+          "z6_time": 0,
+          "z7_time": 0
+        },
+        "power_zones": {
+          "z1_time": 548,
+          "z2_time": 3782,
+          "z3_time": 1079,
+          "z4_time": 0,
+          "z5_time": 0,
+          "z6_time": 0
+        }
+      }
+    },
+    {
+      "id": "activity_2",
       "date": "2026-01-31T10:12:59",
       "type": "VirtualRide",
       "name": "TrainingPeaks Virtual - Workout: Light Z2 Cadence Drill",
@@ -99,7 +149,7 @@
       }
     },
     {
-      "id": "activity_2",
+      "id": "activity_3",
       "date": "2026-01-29T16:06:54",
       "type": "VirtualRide",
       "name": "TrainingPeaks Virtual - Workout: Active Recovery Spin: VI and Cadence Consistency",
@@ -149,7 +199,7 @@
       }
     },
     {
-      "id": "activity_3",
+      "id": "activity_4",
       "date": "2026-01-27T15:53:23",
       "type": "VirtualRide",
       "name": "TrainingPeaks Virtual - Workout: Active Recovery Spin",
@@ -298,8 +348,8 @@
       "date": "2026-02-02T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "[Weekly Plan - Base]\nWarmup\n- Hi Duppie let's ease into this endurance ride 10m ramp 40-70% 85rpm\n\nMain Set\n- Endurance 8m 70% 90rpm\n- Tempo Touch 2m 80% 95rpm\n- Endurance 8m 70% 80rpm\n- Tempo Touch 2m 80% 75rpm\n- Endurance 8m 70% 90rpm\n- Tempo Touch 2m 80% 95rpm\n- Endurance 8m 70% 80rpm\n- Tempo Touch 2m 80% 75rpm\n- Endurance 8m 70% 90rpm\n- Tempo Touch 2m 80% 95rpm\n- Endurance 8m 70% 80rpm\n- Tempo Touch 2m 80% 75rpm\n- Endurance 10m 70% 85rpm\n\nCooldown\n- Great job Duppie keep the legs moving as we spin down 10m ramp 70-45% 80rpm",
-      "planned_tss": 72,
+      "description": "[Weekly Plan - Base]\nWarmup\n- Hi Duppie let's ease into this endurance ride 10m ramp 40-70% 85rpm\n\nMain Set 3x\n- Endurance 7m 70% 90rpm\n- Tempo Touch 3m 80% 95rpm\n- Endurance 7m 70% 80rpm\n- Tempo Touch 3m 80% 75rpm\n\n- Endurance 10m 70% 85rpm\n\nCooldown\n- Great job Duppie keep the legs moving as we spin down 10m ramp 70-45% 80rpm",
+      "planned_tss": 75,
       "duration_hours": 0.0
     },
     {
@@ -367,9 +417,9 @@
     }
   ],
   "weekly_summary": {
-    "total_training_hours": 2.76,
-    "total_tss": 101,
-    "activities_count": 3,
+    "total_training_hours": 4.26,
+    "total_tss": 175,
+    "activities_count": 4,
     "avg_hrv": 40.3,
     "avg_resting_hr": 53.3
   }
