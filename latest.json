@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-03T07:43:55.837438",
+    "last_updated": "2026-02-03T08:21:15.182786",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -281,7 +281,7 @@
     {
       "date": "2026-02-03",
       "weight_kg": null,
-      "resting_hr": null,
+      "resting_hr": 53,
       "hrv_rmssd": null,
       "hrv_sdnn": null,
       "sleep_hours": null,
