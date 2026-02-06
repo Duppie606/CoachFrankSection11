@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-05T23:57:35.067375",
+    "last_updated": "2026-02-06T02:47:51.208557",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -30,10 +30,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 20.71624,
-      "atl": 31.863455,
-      "tsb": -11.15,
-      "ramp_rate": 2.0717602
+      "ctl": 20.22882,
+      "atl": 27.621725,
+      "tsb": -7.39,
+      "ramp_rate": 2.023014
     },
     "thresholds": {
       "ftp": 183,
@@ -44,7 +44,7 @@
     "current_metrics": {
       "weight_kg": 87.279,
       "resting_hr": 53,
-      "hrv": 34.0
+      "hrv": null
     }
   },
   "recent_activities": [
@@ -251,19 +251,6 @@
   ],
   "wellness_data": [
     {
-      "date": "2026-01-30",
-      "weight_kg": 86.636246,
-      "resting_hr": 51,
-      "hrv_rmssd": 40.0,
-      "hrv_sdnn": null,
-      "sleep_hours": 9.45,
-      "sleep_quality": 2,
-      "mental_energy": null,
-      "fatigue": 2,
-      "soreness": 2,
-      "avg_sleeping_hr": null
-    },
-    {
       "date": "2026-01-31",
       "weight_kg": 87.029,
       "resting_hr": 55,
@@ -340,29 +327,33 @@
       "fatigue": 1,
       "soreness": 2,
       "avg_sleeping_hr": null
+    },
+    {
+      "date": "2026-02-06",
+      "weight_kg": null,
+      "resting_hr": null,
+      "hrv_rmssd": null,
+      "hrv_sdnn": null,
+      "sleep_hours": null,
+      "sleep_quality": null,
+      "mental_energy": null,
+      "fatigue": null,
+      "soreness": null,
+      "avg_sleeping_hr": null
     }
   ],
   "planned_workouts": [
     {
       "id": "event_1",
-      "date": "2026-02-05T09:00:00",
+      "date": "2026-02-07T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "[Weekly Plan - Base]\nWarmup\n- 15m ramp 55-75% 85rpm\n\nMain Set\n7x\n- Consistent spinning 8m 75% 90rpm\n- Treshold touch 1m 95% 95rpm\n- Recovery spin 1m 55% 80rpm\n\nCooldown\n- Great job staying disciplined Duppie enjoy the rest 5m ramp 55-35%",
-      "planned_tss": 82,
+      "description": "[Weekly Plan - Base]\nWarmup\n- Hi Duppie let's settle in for a long steady ride today 20m ramp 40-60% 85rpm\n\nMain Set - Endurance & Cadence\n3x\n- Consistent power 25m 60% 90rpm\n- Tempo touch 5m 75% 95rpm\n- Low cadence strength 2m 65% 90rpm\n\nCooldown\n- Incredible endurance work today Duppie enjoy the recovery 20m ramp 65-40% 85rpm",
+      "planned_tss": 83,
       "duration_hours": 0.0
     },
     {
       "id": "event_2",
-      "date": "2026-02-07T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "[Weekly Plan - Base]\nWarmup\n- Hi Duppie let's settle in for a long steady ride today 20m ramp 40-60% 85rpm\n\nMain Set - Endurance & Cadence\n4x\n- Consistent power 25m 60% 90rpm\n- Tempo touch 5m 75% 95rpm\n- Low cadence strength 2m 65% 90rpm\n\nCooldown\n- Incredible endurance work today Duppie enjoy the recovery 20m ramp 65-40% 85rpm",
-      "planned_tss": 105,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_3",
       "date": "2026-02-09T00:00:00",
       "name": "Planned Workout",
       "type": "TARGET",
@@ -371,7 +362,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_4",
+      "id": "event_3",
       "date": "2026-02-16T00:00:00",
       "name": "Planned Workout",
       "type": "TARGET",
@@ -380,7 +371,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_5",
+      "id": "event_4",
       "date": "2026-02-23T00:00:00",
       "name": "Planned Workout",
       "type": "NOTE",
@@ -389,7 +380,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_6",
+      "id": "event_5",
       "date": "2026-02-23T00:00:00",
       "name": "Planned Workout",
       "type": "TARGET",
@@ -402,7 +393,7 @@
     "total_training_hours": 4.66,
     "total_tss": 221,
     "activities_count": 4,
-    "avg_hrv": 39.3,
-    "avg_resting_hr": 53.0
+    "avg_hrv": 39.2,
+    "avg_resting_hr": 53.3
   }
 }
