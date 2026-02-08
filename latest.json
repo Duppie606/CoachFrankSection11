@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-08T12:55:20.242967",
+    "last_updated": "2026-02-08T13:47:43.266411",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -30,10 +30,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 21.539642,
-      "atl": 32.066357,
-      "tsb": -10.53,
-      "ramp_rate": 3.1006489
+      "ctl": 21.593893,
+      "atl": 33.803062,
+      "tsb": -12.21,
+      "ramp_rate": 3.1548996
     },
     "thresholds": {
       "ftp": 183,
@@ -295,6 +295,15 @@
   "planned_workouts": [
     {
       "id": "event_1",
+      "date": "2026-02-08T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "[Weekly Plan - Base]\nWarmup\n- Hi Duppie let's settle in for a long steady ride today 20m ramp 40-60% 85rpm\n\nMain Set - Endurance & Cadence\n4x\n- Consistent power 25m 60% 90rpm\n- Tempo touch 5m 75% 95rpm\n\nCooldown\n- Incredible endurance work today Duppie enjoy the recovery 20m ramp 65-40% 85rpm",
+      "planned_tss": 98,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_2",
       "date": "2026-02-09T00:00:00",
       "name": "Planned Workout",
       "type": "TARGET",
@@ -303,7 +312,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_2",
+      "id": "event_3",
       "date": "2026-02-16T00:00:00",
       "name": "Planned Workout",
       "type": "TARGET",
@@ -312,7 +321,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_3",
+      "id": "event_4",
       "date": "2026-02-23T00:00:00",
       "name": "Planned Workout",
       "type": "NOTE",
@@ -321,7 +330,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_4",
+      "id": "event_5",
       "date": "2026-02-23T00:00:00",
       "name": "Planned Workout",
       "type": "TARGET",
