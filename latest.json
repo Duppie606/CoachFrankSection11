@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-08T19:55:06.482289",
+    "last_updated": "2026-02-08T20:30:11.006915",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -42,7 +42,7 @@
       "max_hr": 177
     },
     "current_metrics": {
-      "weight_kg": 86.879,
+      "weight_kg": 86.863045,
       "resting_hr": 52,
       "hrv": 45.0
     }
@@ -280,14 +280,14 @@
     },
     {
       "date": "2026-02-08",
-      "weight_kg": 86.879,
+      "weight_kg": 86.863045,
       "resting_hr": 52,
       "hrv_rmssd": 45.0,
       "hrv_sdnn": null,
       "sleep_hours": 7.85,
       "sleep_quality": 2,
       "mental_energy": null,
-      "fatigue": 2,
+      "fatigue": 3,
       "soreness": 2,
       "avg_sleeping_hr": null
     }
@@ -307,8 +307,8 @@
       "date": "2026-02-09T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "[Weekly Plan - Base]\nWarmup\n- Hi Duppie let's settle into a steady rhythm for this long ride 15m ramp 45-65% 90rpm\n\nMain Set\n- Endurance block 10m 68% 85rpm\n- Tempo touch 2m 75% 95rpm\n- Endurance block 10m 70% 80rpm\n- Tempo touch 2m 75% 95rpm\n- Endurance block 10m 68% 85rpm\n- Tempo touch 2m 75% 95rpm\n- Endurance block 10m 70% 80rpm\n- Tempo touch 2m 75% 95rpm\n- Endurance block 10m 68% 85rpm\n\nCooldown\n- Great consistency Duppie keep those legs moving as we spin down 15m ramp 60-45% 90rpm",
-      "planned_tss": 63,
+      "description": "[Weekly Plan - Base]\nWarmup\n- Hi Duppie let's settle into a steady rhythm for this long ride 10m ramp 45-68% 90rpm\n\nMain Set\n6x\n- Endurance 9m 68% 90rpm\n- Sweet Spot 3m 90% 95rpm\n\nCooldown\n- Great consistency Duppie keep those legs moving as we spin down 8m ramp 60-45% 90rpm",
+      "planned_tss": 78,
       "duration_hours": 0.0
     },
     {
@@ -316,8 +316,8 @@
       "date": "2026-02-11T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "[Weekly Plan - Base]\nWarmup\n- Hello Duppie let's keep it very easy today 10m ramp 40-50% 90rpm\n\nMain Set\n- Recovery spin 10m 50% 95rpm\n- Easy pickup 30s 65% 100rpm\n- Recovery spin 12m 50% 80rpm\n- Easy pickup 30s 65% 100rpm\n- Recovery spin 15m 50% 90rpm\n\nCooldown\n- Great job staying disciplined Duppie 10m ramp 50-40% 85rpm",
-      "planned_tss": 23,
+      "description": "[Weekly Plan - Base]\nWarmup\n- Hello Duppie let's keep it very easy today 10m ramp 40-60% 90rpm\n\nMain Set\n- Recovery spin 10m 60% 95rpm\n- Easy pickup 1m 75% 100rpm\n- Recovery spin 12m 60% 80rpm\n- Easy pickup 2m 75% 100rpm\n- Recovery spin 15m 60% 90rpm\n\nCooldown\n- Great job staying disciplined Duppie 10m ramp 60-40% 85rpm",
+      "planned_tss": 34,
       "duration_hours": 0.0
     },
     {
