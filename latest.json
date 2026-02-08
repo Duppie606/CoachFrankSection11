@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-07T23:36:11.810883",
+    "last_updated": "2026-02-08T00:02:43.028654",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -30,10 +30,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 22.058645,
-      "atl": 36.990627,
-      "tsb": -14.93,
-      "ramp_rate": 3.1753597
+      "ctl": 21.539642,
+      "atl": 32.066357,
+      "tsb": -10.53,
+      "ramp_rate": 3.1006489
     },
     "thresholds": {
       "ftp": 183,
@@ -44,7 +44,7 @@
     "current_metrics": {
       "weight_kg": 86.68,
       "resting_hr": 57,
-      "hrv": 27.0
+      "hrv": null
     }
   },
   "recent_activities": [
@@ -201,19 +201,6 @@
   ],
   "wellness_data": [
     {
-      "date": "2026-02-01",
-      "weight_kg": 87.029,
-      "resting_hr": 56,
-      "hrv_rmssd": 35.0,
-      "hrv_sdnn": null,
-      "sleep_hours": 9.9,
-      "sleep_quality": 3,
-      "mental_energy": null,
-      "fatigue": 2,
-      "soreness": 2,
-      "avg_sleeping_hr": null
-    },
-    {
       "date": "2026-02-02",
       "weight_kg": 87.099,
       "resting_hr": 53,
@@ -290,20 +277,24 @@
       "fatigue": 3,
       "soreness": 1,
       "avg_sleeping_hr": null
+    },
+    {
+      "date": "2026-02-08",
+      "weight_kg": null,
+      "resting_hr": null,
+      "hrv_rmssd": null,
+      "hrv_sdnn": null,
+      "sleep_hours": null,
+      "sleep_quality": null,
+      "mental_energy": null,
+      "fatigue": null,
+      "soreness": null,
+      "avg_sleeping_hr": null
     }
   ],
   "planned_workouts": [
     {
       "id": "event_1",
-      "date": "2026-02-07T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "[Weekly Plan - Base]\nWarmup\n- Hi Duppie let's settle in for a long steady ride today 20m ramp 40-60% 85rpm\n\nMain Set - Endurance & Cadence\n4x\n- Consistent power 25m 60% 90rpm\n- Tempo touch 5m 75% 95rpm\n\nCooldown\n- Incredible endurance work today Duppie enjoy the recovery 20m ramp 65-40% 85rpm",
-      "planned_tss": 98,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_2",
       "date": "2026-02-09T00:00:00",
       "name": "Planned Workout",
       "type": "TARGET",
@@ -312,7 +303,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_3",
+      "id": "event_2",
       "date": "2026-02-16T00:00:00",
       "name": "Planned Workout",
       "type": "TARGET",
@@ -321,7 +312,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_4",
+      "id": "event_3",
       "date": "2026-02-23T00:00:00",
       "name": "Planned Workout",
       "type": "NOTE",
@@ -330,7 +321,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_5",
+      "id": "event_4",
       "date": "2026-02-23T00:00:00",
       "name": "Planned Workout",
       "type": "TARGET",
@@ -343,7 +334,7 @@
     "total_training_hours": 3.66,
     "total_tss": 174,
     "activities_count": 3,
-    "avg_hrv": 38.1,
-    "avg_resting_hr": 53.6
+    "avg_hrv": 38.7,
+    "avg_resting_hr": 53.2
   }
 }
