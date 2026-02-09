@@ -3,37 +3,37 @@
     "instruction_for_ai": "DO NOT calculate totals from individual activities. Use the pre-calculated values in 'summary' and 'weekly_summary' sections below. These are already computed accurately from the API data.",
     "data_period": "Last 7 days (including today)",
     "quick_stats": {
-      "total_training_hours": 3.66,
-      "total_activities": 3,
-      "total_tss": 174
+      "total_training_hours": 2.16,
+      "total_activities": 2,
+      "total_tss": 100
     }
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-08T23:59:15.780336",
+    "last_updated": "2026-02-09T03:14:22.917504",
     "data_range_days": 7,
     "version": "1.0.0"
   },
   "summary": {
     "period_description": "Last 7 days of training (including today)",
     "note": "Duration calculated from API moving_time field. Minor differences (<30s) from Intervals.icu dashboard are normal due to rounding.",
-    "total_duration_decimal_hours": 3.66,
-    "total_activities": 3,
+    "total_duration_decimal_hours": 2.16,
+    "total_activities": 2,
     "by_activity_type": {
       "VirtualRide": {
-        "duration_decimal_hours": 3.66,
-        "count": 3,
-        "tss": 174,
-        "distance_km": 94.6
+        "duration_decimal_hours": 2.16,
+        "count": 2,
+        "tss": 100,
+        "distance_km": 52.8
       }
     }
   },
   "current_status": {
     "fitness": {
-      "ctl": 19.288118,
-      "atl": 20.7571,
-      "tsb": -1.47,
-      "ramp_rate": 0.8491249
+      "ctl": 19.493093,
+      "atl": 21.721289,
+      "tsb": -2.23,
+      "ramp_rate": -0.25315666
     },
     "thresholds": {
       "ftp": 183,
@@ -44,7 +44,7 @@
     "current_metrics": {
       "weight_kg": 86.863045,
       "resting_hr": 52,
-      "hrv": 45.0
+      "hrv": null
     }
   },
   "recent_activities": [
@@ -147,72 +147,9 @@
           "z6_time": 0
         }
       }
-    },
-    {
-      "id": "activity_3",
-      "date": "2026-02-02T15:53:00",
-      "type": "VirtualRide",
-      "name": "TrainingPeaks Virtual - Workout: IntervalCoach - Endurance",
-      "duration_hours": 1.5,
-      "distance_km": 41.79,
-      "tss": 74,
-      "intensity_factor": 69.94536,
-      "avg_power": 126,
-      "normalized_power": 128,
-      "avg_hr": 126,
-      "max_hr": 144,
-      "avg_cadence": 84.993706,
-      "avg_speed": 27.8,
-      "max_speed": 51.1,
-      "avg_pace": null,
-      "avg_temp": null,
-      "weather": null,
-      "humidity": null,
-      "wind_speed": null,
-      "work_kj": 679.6,
-      "calories": 679,
-      "carbs_used": 167,
-      "carbs_ingested": null,
-      "variability_index": 1.0158731,
-      "decoupling": -1.3723333,
-      "elevation_m": 98.000015,
-      "feel": 1,
-      "rpe": 5,
-      "zone_distribution": {
-        "hr_zones": {
-          "z1_time": 4015,
-          "z2_time": 1391,
-          "z3_time": 3,
-          "z4_time": 0,
-          "z5_time": 0,
-          "z6_time": 0,
-          "z7_time": 0
-        },
-        "power_zones": {
-          "z1_time": 548,
-          "z2_time": 3782,
-          "z3_time": 1079,
-          "z4_time": 0,
-          "z5_time": 0,
-          "z6_time": 0
-        }
-      }
     }
   ],
   "wellness_data": [
-    {
-      "date": "2026-02-02",
-      "weight_kg": 87.099,
-      "resting_hr": 53,
-      "hrv_rmssd": 39.0,
-      "hrv_sdnn": null,
-      "sleep_hours": 9.42,
-      "sleep_quality": 2,
-      "mental_energy": null,
-      "fatigue": 2,
-      "soreness": 2,
-      "avg_sleeping_hr": null
-    },
     {
       "date": "2026-02-03",
       "weight_kg": 87.099,
@@ -289,6 +226,19 @@
       "mental_energy": null,
       "fatigue": 3,
       "soreness": 2,
+      "avg_sleeping_hr": null
+    },
+    {
+      "date": "2026-02-09",
+      "weight_kg": null,
+      "resting_hr": null,
+      "hrv_rmssd": null,
+      "hrv_sdnn": null,
+      "sleep_hours": null,
+      "sleep_quality": null,
+      "mental_energy": null,
+      "fatigue": null,
+      "soreness": null,
       "avg_sleeping_hr": null
     }
   ],
@@ -382,13 +332,22 @@
       "description": "",
       "planned_tss": null,
       "duration_hours": 0.0
+    },
+    {
+      "id": "event_11",
+      "date": "2026-03-02T00:00:00",
+      "name": "Planned Workout",
+      "type": "TARGET",
+      "description": "",
+      "planned_tss": null,
+      "duration_hours": 0.0
     }
   ],
   "weekly_summary": {
-    "total_training_hours": 3.66,
-    "total_tss": 174,
-    "activities_count": 3,
-    "avg_hrv": 39.6,
+    "total_training_hours": 2.16,
+    "total_tss": 100,
+    "activities_count": 2,
+    "avg_hrv": 39.7,
     "avg_resting_hr": 53.0
   }
 }
