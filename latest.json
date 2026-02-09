@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-09T10:42:09.947958",
+    "last_updated": "2026-02-09T11:32:59.491453",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -237,8 +237,8 @@
       "sleep_hours": null,
       "sleep_quality": null,
       "mental_energy": null,
-      "fatigue": null,
-      "soreness": null,
+      "fatigue": 1,
+      "soreness": 1,
       "avg_sleeping_hr": null
     }
   ],
