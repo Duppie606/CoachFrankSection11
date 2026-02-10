@@ -3,37 +3,37 @@
     "instruction_for_ai": "DO NOT calculate totals from individual activities. Use the pre-calculated values in 'summary' and 'weekly_summary' sections below. These are already computed accurately from the API data.",
     "data_period": "Last 7 days (including today)",
     "quick_stats": {
-      "total_training_hours": 3.49,
-      "total_activities": 3,
-      "total_tss": 156
+      "total_training_hours": 4.5,
+      "total_activities": 4,
+      "total_tss": 210
     }
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-10T22:24:28.290704",
+    "last_updated": "2026-02-10T23:08:41.863764",
     "data_range_days": 7,
     "version": "1.0.0"
   },
   "summary": {
     "period_description": "Last 7 days of training (including today)",
     "note": "Duration calculated from API moving_time field. Minor differences (<30s) from Intervals.icu dashboard are normal due to rounding.",
-    "total_duration_decimal_hours": 3.49,
-    "total_activities": 3,
+    "total_duration_decimal_hours": 4.5,
+    "total_activities": 4,
     "by_activity_type": {
       "VirtualRide": {
-        "duration_decimal_hours": 3.49,
-        "count": 3,
-        "tss": 156,
-        "distance_km": 88.1
+        "duration_decimal_hours": 4.5,
+        "count": 4,
+        "tss": 210,
+        "distance_km": 109.7
       }
     }
   },
   "current_status": {
     "fitness": {
-      "ctl": 20.92475,
-      "atl": 29.116394,
-      "tsb": -8.19,
-      "ramp_rate": 1.643095
+      "ctl": 20.948277,
+      "atl": 29.249516,
+      "tsb": -8.3,
+      "ramp_rate": 1.6666222
     },
     "thresholds": {
       "ftp": 183,
@@ -50,6 +50,56 @@
   "recent_activities": [
     {
       "id": "activity_1",
+      "date": "2026-02-10T15:56:18",
+      "type": "VirtualRide",
+      "name": "TrainingPeaks Virtual - Workout: IntervalCoach - Tempo",
+      "duration_hours": 1.0,
+      "distance_km": 21.64,
+      "tss": 54,
+      "intensity_factor": 73.224045,
+      "avg_power": 128,
+      "normalized_power": 134,
+      "avg_hr": 130,
+      "max_hr": 147,
+      "avg_cadence": 89.37441,
+      "avg_speed": 21.6,
+      "max_speed": 41.3,
+      "avg_pace": null,
+      "avg_temp": null,
+      "weather": null,
+      "humidity": null,
+      "wind_speed": null,
+      "work_kj": 459.8,
+      "calories": 460,
+      "carbs_used": 97,
+      "carbs_ingested": null,
+      "variability_index": 1.046875,
+      "decoupling": 6.825528,
+      "elevation_m": 202.20001,
+      "feel": 1,
+      "rpe": 6,
+      "zone_distribution": {
+        "hr_zones": {
+          "z1_time": 1706,
+          "z2_time": 1386,
+          "z3_time": 515,
+          "z4_time": 0,
+          "z5_time": 0,
+          "z6_time": 0,
+          "z7_time": 0
+        },
+        "power_zones": {
+          "z1_time": 613,
+          "z2_time": 1423,
+          "z3_time": 1571,
+          "z4_time": 0,
+          "z5_time": 0,
+          "z6_time": 0
+        }
+      }
+    },
+    {
+      "id": "activity_2",
       "date": "2026-02-09T15:29:43",
       "type": "VirtualRide",
       "name": "TrainingPeaks Virtual - Workout: 90m Z2 Endurance",
@@ -99,7 +149,7 @@
       }
     },
     {
-      "id": "activity_2",
+      "id": "activity_3",
       "date": "2026-02-05T16:07:17",
       "type": "VirtualRide",
       "name": "TrainingPeaks Virtual - Workout: IntervalCoach - Threshold touch",
@@ -149,7 +199,7 @@
       }
     },
     {
-      "id": "activity_3",
+      "id": "activity_4",
       "date": "2026-02-04T16:52:42",
       "type": "VirtualRide",
       "name": "TrainingPeaks Virtual - Workout: IntervalCoach - Recovery",
@@ -385,9 +435,9 @@
     }
   ],
   "weekly_summary": {
-    "total_training_hours": 3.49,
-    "total_tss": 156,
-    "activities_count": 3,
+    "total_training_hours": 4.5,
+    "total_tss": 210,
+    "activities_count": 4,
     "avg_hrv": 38.1,
     "avg_resting_hr": 53.0
   }
