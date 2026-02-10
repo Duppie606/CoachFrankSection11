@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-10T00:01:41.639951",
+    "last_updated": "2026-02-10T03:29:20.237100",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -30,10 +30,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 19.677748,
-      "atl": 22.060923,
-      "tsb": -2.38,
-      "ramp_rate": 0.39609337
+      "ctl": 21.112974,
+      "atl": 30.18137,
+      "tsb": -9.07,
+      "ramp_rate": 1.8313198
     },
     "thresholds": {
       "ftp": 183,
@@ -295,7 +295,7 @@
   "planned_workouts": [
     {
       "id": "event_1",
-      "date": "2026-02-11T00:00:00",
+      "date": "2026-02-10T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "Warmup\n- 5m ramp 50%-75% 90rpm\n\nMain Set 2x\n- 15m 80% 90rpm\n- 5m 55% 85rpm\n\n\n-15m 80% 90rpm\n\nCooldown\n- 5m ramp 75%-50% 85rpm",
