@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-10T12:00:49.167425",
+    "last_updated": "2026-02-10T13:54:11.419126",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -30,10 +30,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 21.112974,
-      "atl": 30.18137,
-      "tsb": -9.07,
-      "ramp_rate": 1.8313198
+      "ctl": 20.92475,
+      "atl": 29.116394,
+      "tsb": -8.19,
+      "ramp_rate": 1.643095
     },
     "thresholds": {
       "ftp": 183,
@@ -42,9 +42,9 @@
       "max_hr": 177
     },
     "current_metrics": {
-      "weight_kg": 86.95376,
-      "resting_hr": 57,
-      "hrv": null
+      "weight_kg": 86.41,
+      "resting_hr": 52,
+      "hrv": 29.0
     }
   },
   "recent_activities": [
@@ -280,26 +280,26 @@
     },
     {
       "date": "2026-02-10",
-      "weight_kg": null,
-      "resting_hr": 57,
-      "hrv_rmssd": null,
+      "weight_kg": 86.41,
+      "resting_hr": 52,
+      "hrv_rmssd": 29.0,
       "hrv_sdnn": null,
-      "sleep_hours": null,
-      "sleep_quality": null,
+      "sleep_hours": 8.02,
+      "sleep_quality": 3,
       "mental_energy": null,
-      "fatigue": null,
-      "soreness": null,
+      "fatigue": 2,
+      "soreness": 2,
       "avg_sleeping_hr": null
     }
   ],
   "planned_workouts": [
     {
       "id": "event_1",
-      "date": "2026-02-10T00:00:00",
+      "date": "2026-02-10T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- 5m ramp 50%-75% 90rpm\n\nMain Set 2x\n- 15m 80% 90rpm\n- 5m 55% 85rpm\n\n\n-15m 80% 90rpm\n\nCooldown\n- 5m ramp 75%-50% 85rpm",
-      "planned_tss": 61,
+      "description": "Warmup\n- Hello Duppie let's ease into this session 10m ramp 40-75% 85rpm\n\nMain Set\n- Endurance touch 5m 75% 90rpm\n\n3x\n- Tempo effort 8m 83% 90rpm\n- Recovery spin 4m 55% 90rpm\n\n- Endurance touch 4m 75% 90rpm\n\nCooldown\n- Great job Duppie keep the legs moving as we finish 5m ramp 75-40% 85rpm",
+      "planned_tss": 53,
       "duration_hours": 0.0
     },
     {
@@ -388,7 +388,7 @@
     "total_training_hours": 3.49,
     "total_tss": 156,
     "activities_count": 3,
-    "avg_hrv": 39.7,
-    "avg_resting_hr": 53.7
+    "avg_hrv": 38.1,
+    "avg_resting_hr": 53.0
   }
 }
