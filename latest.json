@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-12T20:51:39.563092",
+    "last_updated": "2026-02-12T21:35:23.165012",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -281,15 +281,6 @@
     },
     {
       "id": "event_5",
-      "date": "2026-02-16T00:00:00",
-      "name": "Planned Workout",
-      "type": "PLAN",
-      "description": "Base phase: aerobic capacity, endurance, volume building",
-      "planned_tss": null,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_6",
       "date": "2026-02-18T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -298,7 +289,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_7",
+      "id": "event_6",
       "date": "2026-02-19T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -307,7 +298,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_8",
+      "id": "event_7",
       "date": "2026-02-21T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -316,7 +307,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_9",
+      "id": "event_8",
       "date": "2026-02-23T00:00:00",
       "name": "Planned Workout",
       "type": "NOTE",
@@ -325,7 +316,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_10",
+      "id": "event_9",
       "date": "2026-02-23T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -334,11 +325,20 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_11",
+      "id": "event_10",
       "date": "2026-02-23T00:00:00",
       "name": "Planned Workout",
       "type": "TARGET",
       "description": null,
+      "planned_tss": null,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_11",
+      "date": "2026-02-23T00:00:00",
+      "name": "Planned Workout",
+      "type": "NOTE",
+      "description": "Focus on easier efforts, reduced volume, and allowing your body to adapt to training stress",
       "planned_tss": null,
       "duration_hours": 0.0
     },
