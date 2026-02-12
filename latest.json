@@ -3,37 +3,37 @@
     "instruction_for_ai": "DO NOT calculate totals from individual activities. Use the pre-calculated values in 'summary' and 'weekly_summary' sections below. These are already computed accurately from the API data.",
     "data_period": "Last 7 days (including today)",
     "quick_stats": {
-      "total_training_hours": 3.49,
-      "total_activities": 3,
-      "total_tss": 171
+      "total_training_hours": 2.34,
+      "total_activities": 2,
+      "total_tss": 110
     }
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-11T23:47:11.638626",
+    "last_updated": "2026-02-12T02:26:58.805450",
     "data_range_days": 7,
     "version": "1.0.0"
   },
   "summary": {
     "period_description": "Last 7 days of training (including today)",
     "note": "Duration calculated from API moving_time field. Minor differences (<30s) from Intervals.icu dashboard are normal due to rounding.",
-    "total_duration_decimal_hours": 3.49,
-    "total_activities": 3,
+    "total_duration_decimal_hours": 2.34,
+    "total_activities": 2,
     "by_activity_type": {
       "VirtualRide": {
-        "duration_decimal_hours": 3.49,
-        "count": 3,
-        "tss": 171,
-        "distance_km": 88.4
+        "duration_decimal_hours": 2.34,
+        "count": 2,
+        "tss": 110,
+        "distance_km": 56.8
       }
     }
   },
   "current_status": {
     "fitness": {
-      "ctl": 21.373003,
-      "atl": 30.54752,
-      "tsb": -9.17,
-      "ramp_rate": 1.627409
+      "ctl": 21.456402,
+      "atl": 30.367039,
+      "tsb": -8.91,
+      "ramp_rate": 0.7401619
     },
     "thresholds": {
       "ftp": 183,
@@ -44,7 +44,7 @@
     "current_metrics": {
       "weight_kg": 86.139,
       "resting_hr": 52,
-      "hrv": 35.0
+      "hrv": null
     }
   },
   "recent_activities": [
@@ -147,72 +147,9 @@
           "z6_time": 0
         }
       }
-    },
-    {
-      "id": "activity_3",
-      "date": "2026-02-05T16:07:17",
-      "type": "VirtualRide",
-      "name": "TrainingPeaks Virtual - Workout: IntervalCoach - Threshold touch",
-      "duration_hours": 1.16,
-      "distance_km": 31.5,
-      "tss": 61,
-      "intensity_factor": 72.6776,
-      "avg_power": 128,
-      "normalized_power": 133,
-      "avg_hr": 127,
-      "max_hr": 147,
-      "avg_cadence": 89.335976,
-      "avg_speed": 27.3,
-      "max_speed": 55.8,
-      "avg_pace": null,
-      "avg_temp": null,
-      "weather": null,
-      "humidity": null,
-      "wind_speed": null,
-      "work_kj": 534.2,
-      "calories": 534,
-      "carbs_used": 119,
-      "carbs_ingested": null,
-      "variability_index": 1.0390625,
-      "decoupling": 3.912066,
-      "elevation_m": 140.40002,
-      "feel": 4,
-      "rpe": 7,
-      "zone_distribution": {
-        "hr_zones": {
-          "z1_time": 2040,
-          "z2_time": 2059,
-          "z3_time": 62,
-          "z4_time": 0,
-          "z5_time": 0,
-          "z6_time": 0,
-          "z7_time": 0
-        },
-        "power_zones": {
-          "z1_time": 410,
-          "z2_time": 2900,
-          "z3_time": 623,
-          "z4_time": 228,
-          "z5_time": 0,
-          "z6_time": 0
-        }
-      }
     }
   ],
   "wellness_data": [
-    {
-      "date": "2026-02-05",
-      "weight_kg": 87.279,
-      "resting_hr": 53,
-      "hrv_rmssd": 34.0,
-      "hrv_sdnn": null,
-      "sleep_hours": 7.83,
-      "sleep_quality": 2,
-      "mental_energy": null,
-      "fatigue": 1,
-      "soreness": 2,
-      "avg_sleeping_hr": null
-    },
     {
       "date": "2026-02-06",
       "weight_kg": 87.04,
@@ -290,20 +227,24 @@
       "fatigue": 2,
       "soreness": 2,
       "avg_sleeping_hr": null
+    },
+    {
+      "date": "2026-02-12",
+      "weight_kg": null,
+      "resting_hr": null,
+      "hrv_rmssd": null,
+      "hrv_sdnn": null,
+      "sleep_hours": null,
+      "sleep_quality": null,
+      "mental_energy": null,
+      "fatigue": null,
+      "soreness": null,
+      "avg_sleeping_hr": null
     }
   ],
   "planned_workouts": [
     {
       "id": "event_1",
-      "date": "2026-02-11T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "[Weekly Plan - Base]\nWarmup\n- 9m ramp 0-75%\n\nMain Set\n- Endurance 45m ramp 56-75%\n\nCooldown\n- 6m ramp 56-0%",
-      "planned_tss": 39,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_2",
       "date": "2026-02-12T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -312,7 +253,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_3",
+      "id": "event_2",
       "date": "2026-02-14T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -321,7 +262,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_4",
+      "id": "event_3",
       "date": "2026-02-16T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -330,7 +271,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_5",
+      "id": "event_4",
       "date": "2026-02-18T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -339,7 +280,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_6",
+      "id": "event_5",
       "date": "2026-02-19T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -348,7 +289,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_7",
+      "id": "event_6",
       "date": "2026-02-21T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -357,7 +298,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_8",
+      "id": "event_7",
       "date": "2026-02-23T00:00:00",
       "name": "Planned Workout",
       "type": "NOTE",
@@ -366,7 +307,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_9",
+      "id": "event_8",
       "date": "2026-02-23T00:00:00",
       "name": "Planned Workout",
       "type": "TARGET",
@@ -375,7 +316,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_10",
+      "id": "event_9",
       "date": "2026-02-23T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -384,7 +325,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_11",
+      "id": "event_10",
       "date": "2026-02-25T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -393,7 +334,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_12",
+      "id": "event_11",
       "date": "2026-02-26T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -402,7 +343,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_13",
+      "id": "event_12",
       "date": "2026-02-28T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -411,7 +352,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_14",
+      "id": "event_13",
       "date": "2026-03-02T00:00:00",
       "name": "Planned Workout",
       "type": "TARGET",
@@ -421,10 +362,10 @@
     }
   ],
   "weekly_summary": {
-    "total_training_hours": 3.49,
-    "total_tss": 171,
-    "activities_count": 3,
-    "avg_hrv": 36.6,
+    "total_training_hours": 2.34,
+    "total_tss": 110,
+    "activities_count": 2,
+    "avg_hrv": 37.0,
     "avg_resting_hr": 53.0
   }
 }
