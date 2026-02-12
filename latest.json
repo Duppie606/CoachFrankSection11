@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-12T20:03:28.227534",
+    "last_updated": "2026-02-12T20:51:39.563092",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -30,10 +30,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 21.432873,
-      "atl": 30.233917,
-      "tsb": -8.8,
-      "ramp_rate": 0.71663284
+      "ctl": 22.04461,
+      "atl": 33.69509,
+      "tsb": -11.65,
+      "ramp_rate": 1.3283691
     },
     "thresholds": {
       "ftp": 183,
@@ -248,8 +248,8 @@
       "date": "2026-02-12T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- Hello Duppie let's settle into a steady rhythm 15m ramp 45-60% 90rpm\n\nMain Set\n- Aerobic Base 10m 65% 85rpm\n- Low Cadence Strength 10m 70% 75rpm\n- High Cadence Spin 10m 68% 100rpm\n- Tempo Touch 1m 82%\n- Steady Endurance 8m 65% 90rpm\n- Tempo Touch 1m 82%\n- Steady Endurance 8m 65% 90rpm\n- Tempo Touch 1m 82%\n- Steady Endurance 8m 65% 90rpm\n- Tempo Touch 1m 82%\n- Final Endurance Block 7m 72% 95rpm\n\nCooldown\n- Great job Duppie keep the legs moving as we finish 10m ramp 55-40% 85rpm",
-      "planned_tss": 62,
+      "description": "[Weekly Plan - Base]\nWarmup\n- 14m ramp 0-75%\n\nMain Set\n- Tempo 67m ramp 76-87%\n\nCooldown\n- 9m ramp 56-0%",
+      "planned_tss": 88,
       "duration_hours": 0.0
     },
     {
@@ -290,24 +290,6 @@
     },
     {
       "id": "event_6",
-      "date": "2026-02-16T00:00:00",
-      "name": "Planned Workout",
-      "type": "PLAN",
-      "description": "Base phase: aerobic capacity, endurance, volume building",
-      "planned_tss": null,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_7",
-      "date": "2026-02-16T00:00:00",
-      "name": "Planned Workout",
-      "type": "PLAN",
-      "description": "Base phase: aerobic capacity, endurance, volume building",
-      "planned_tss": null,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_8",
       "date": "2026-02-18T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -316,7 +298,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_9",
+      "id": "event_7",
       "date": "2026-02-19T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -325,7 +307,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_10",
+      "id": "event_8",
       "date": "2026-02-21T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -334,7 +316,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_11",
+      "id": "event_9",
       "date": "2026-02-23T00:00:00",
       "name": "Planned Workout",
       "type": "NOTE",
@@ -343,7 +325,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_12",
+      "id": "event_10",
       "date": "2026-02-23T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -352,7 +334,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_13",
+      "id": "event_11",
       "date": "2026-02-23T00:00:00",
       "name": "Planned Workout",
       "type": "TARGET",
@@ -361,7 +343,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_14",
+      "id": "event_12",
       "date": "2026-02-25T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -370,7 +352,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_15",
+      "id": "event_13",
       "date": "2026-02-26T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -379,7 +361,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_16",
+      "id": "event_14",
       "date": "2026-02-28T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -388,7 +370,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_17",
+      "id": "event_15",
       "date": "2026-03-02T00:00:00",
       "name": "Planned Workout",
       "type": "TARGET",
