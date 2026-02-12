@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-12T11:56:36.304535",
+    "last_updated": "2026-02-12T13:21:27.060207",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -30,10 +30,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 21.456402,
-      "atl": 30.367039,
-      "tsb": -8.91,
-      "ramp_rate": 0.7401619
+      "ctl": 21.432873,
+      "atl": 30.233917,
+      "tsb": -8.8,
+      "ramp_rate": 0.71663284
     },
     "thresholds": {
       "ftp": 183,
@@ -43,8 +43,8 @@
     },
     "current_metrics": {
       "weight_kg": 86.139,
-      "resting_hr": 57,
-      "hrv": 39.0
+      "resting_hr": 55,
+      "hrv": 40.0
     }
   },
   "recent_activities": [
@@ -231,25 +231,25 @@
     {
       "date": "2026-02-12",
       "weight_kg": null,
-      "resting_hr": 57,
-      "hrv_rmssd": 39.0,
+      "resting_hr": 55,
+      "hrv_rmssd": 40.0,
       "hrv_sdnn": null,
-      "sleep_hours": 3.55,
-      "sleep_quality": 4,
+      "sleep_hours": 7.83,
+      "sleep_quality": 3,
       "mental_energy": null,
-      "fatigue": null,
-      "soreness": null,
+      "fatigue": 2,
+      "soreness": 2,
       "avg_sleeping_hr": null
     }
   ],
   "planned_workouts": [
     {
       "id": "event_1",
-      "date": "2026-02-12T00:00:00",
+      "date": "2026-02-12T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- 15m ramp 50%-65% 90rpm\n\nMain Set\n- 65m 68% 90rpm\n\nCooldown\n- 10m ramp 60%-50% 85rpm",
-      "planned_tss": 63,
+      "description": "Warmup\n- Hello Duppie let's settle into a steady rhythm 15m ramp 45-60% 90rpm\n\nMain Set\n- Aerobic Base 10m 65% 85rpm\n- Low Cadence Strength 10m 70% 75rpm\n- High Cadence Spin 10m 68% 100rpm\n- Tempo Touch 1m 82%\n- Steady Endurance 8m 65% 90rpm\n- Tempo Touch 1m 82%\n- Steady Endurance 8m 65% 90rpm\n- Tempo Touch 1m 82%\n- Steady Endurance 8m 65% 90rpm\n- Tempo Touch 1m 82%\n- Final Endurance Block 7m 72% 95rpm\n\nCooldown\n- Great job Duppie keep the legs moving as we finish 10m ramp 55-40% 85rpm",
+      "planned_tss": 62,
       "duration_hours": 0.0
     },
     {
@@ -365,7 +365,7 @@
     "total_training_hours": 2.34,
     "total_tss": 110,
     "activities_count": 2,
-    "avg_hrv": 37.3,
-    "avg_resting_hr": 53.6
+    "avg_hrv": 37.4,
+    "avg_resting_hr": 53.3
   }
 }
