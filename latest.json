@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-14T19:45:37.472574",
+    "last_updated": "2026-02-14T20:28:58.670756",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -30,10 +30,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 22.258259,
-      "atl": 32.70662,
-      "tsb": -10.45,
-      "ramp_rate": 2.5053883
+      "ctl": 23.05822,
+      "atl": 37.23277,
+      "tsb": -14.17,
+      "ramp_rate": 3.3053493
     },
     "thresholds": {
       "ftp": 183,
@@ -295,11 +295,11 @@
   "planned_workouts": [
     {
       "id": "event_1",
-      "date": "2026-02-14T00:00:00",
+      "date": "2026-02-14T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- Hi Duppie let's settle in for a long aerobic ride 15m ramp 40-60% 90rpm\n\nMain Set\n- Aerobic Steady State 20m 62% 85rpm\n- High Cadence Block 10m 65% 100rpm\n- Aerobic Steady State 20m 62% 85rpm\n- Low Cadence Block 10m 65% 70rpm\n- Aerobic Steady State 27m 60% 90rpm\n\nCooldown\n- Great job Duppie keep the legs moving as we finish 10m ramp 55-40% 85rpm",
-      "planned_tss": 66,
+      "description": "[Weekly Plan - Base]\nWarmup\n- Hi Duppie let's build into this long Fartlek session 15m ramp 40-70% 90rpm\n\nMain Set - Speed Play\n- Steady 10m 65% 85rpm\n- Surge 4m 92% 95rpm\n- Recovery 6m 60% 80rpm\n- Surge 2m 95% 100rpm\n- Steady 12m 70% 90rpm\n- Surge 5m 88% 85rpm\n- Recovery 8m 62% 80rpm\n- Surge 1m 95% 105rpm\n- Steady 15m 68% 90rpm\n- Surge 3m 90% 95rpm\n- Recovery 7m 60% 80rpm\n- Surge 2m 94% 100rpm\n- Steady 10m 72% 90rpm\n- Surge 3m 85% 85rpm\n- Recovery 10m 60% 80rpm\n\nCooldown\n- Great work Duppie bring the heart rate down 10m ramp 60-40% 85rpm",
+      "planned_tss": 100,
       "duration_hours": 0.0
     },
     {
