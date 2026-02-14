@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-14T12:53:02.571403",
+    "last_updated": "2026-02-14T13:45:55.393603",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -30,10 +30,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 24.093466,
-      "atl": 43.090145,
-      "tsb": -19.0,
-      "ramp_rate": 4.3405952
+      "ctl": 22.258259,
+      "atl": 32.70662,
+      "tsb": -10.45,
+      "ramp_rate": 2.5053883
     },
     "thresholds": {
       "ftp": 183,
@@ -42,7 +42,7 @@
       "max_hr": 177
     },
     "current_metrics": {
-      "weight_kg": 86.889,
+      "weight_kg": 86.569,
       "resting_hr": 56,
       "hrv": 35.0
     }
@@ -280,15 +280,15 @@
     },
     {
       "date": "2026-02-14",
-      "weight_kg": null,
+      "weight_kg": 86.569,
       "resting_hr": 56,
       "hrv_rmssd": 35.0,
       "hrv_sdnn": null,
       "sleep_hours": 7.97,
       "sleep_quality": 2,
       "mental_energy": null,
-      "fatigue": null,
-      "soreness": null,
+      "fatigue": 2,
+      "soreness": 2,
       "avg_sleeping_hr": null
     }
   ],
@@ -298,8 +298,8 @@
       "date": "2026-02-14T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- 20m ramp 50%-70% 90rpm\n\nMain Set\n- 140m 72% 90rpm\n\nCooldown\n- 20m ramp 65%-50% 85rpm",
-      "planned_tss": 144,
+      "description": "Warmup\n- Hi Duppie let's settle in for a long aerobic ride 15m ramp 40-60% 90rpm\n\nMain Set\n- Aerobic Steady State 20m 62% 85rpm\n- High Cadence Block 10m 65% 100rpm\n- Aerobic Steady State 20m 62% 85rpm\n- Low Cadence Block 10m 65% 70rpm\n- Aerobic Steady State 27m 60% 90rpm\n\nCooldown\n- Great job Duppie keep the legs moving as we finish 10m ramp 55-40% 85rpm",
+      "planned_tss": 66,
       "duration_hours": 0.0
     },
     {
