@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-15T22:26:56.716484",
+    "last_updated": "2026-02-15T22:53:58.920976",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -432,6 +432,33 @@
     },
     {
       "id": "event_10",
+      "date": "2026-02-23T00:00:00",
+      "name": "Planned Workout",
+      "type": "NOTE",
+      "description": "Focus on easier efforts, reduced volume, and allowing your body to adapt to training stress",
+      "planned_tss": null,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_11",
+      "date": "2026-02-23T00:00:00",
+      "name": "Planned Workout",
+      "type": "NOTE",
+      "description": "Focus on easier efforts, reduced volume, and allowing your body to adapt to training stress",
+      "planned_tss": null,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_12",
+      "date": "2026-02-23T00:00:00",
+      "name": "Planned Workout",
+      "type": "NOTE",
+      "description": "Focus on easier efforts, reduced volume, and allowing your body to adapt to training stress",
+      "planned_tss": null,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_13",
       "date": "2026-02-25T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -440,7 +467,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_11",
+      "id": "event_14",
       "date": "2026-02-26T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -449,7 +476,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_12",
+      "id": "event_15",
       "date": "2026-02-28T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -458,7 +485,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_13",
+      "id": "event_16",
       "date": "2026-03-02T00:00:00",
       "name": "Planned Workout",
       "type": "TARGET",
@@ -467,7 +494,34 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_14",
+      "id": "event_17",
+      "date": "2026-03-02T00:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 600s ramp 50%-75% 90rpm\n\nMain Set\n- 6000s Z2 85-90rpm\n\nCooldown\n- 600s ramp 75%-50%",
+      "planned_tss": 85,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_18",
+      "date": "2026-03-04T00:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 600s ramp 50%-75% 90rpm\n\nMain Set 3x\n- 900s Z3 90-95rpm\n- 300s Z1 80rpm\n\nCooldown\n- 600s ramp 75%-50%",
+      "planned_tss": 75,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_19",
+      "date": "2026-03-05T00:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 600s ramp 50%-70% 90rpm\n\nMain Set\n- 1200s Z1 90rpm\n- 300s Z4 95rpm\n- 1200s Z1 90rpm\n\nCooldown\n- 600s ramp 70%-50%",
+      "planned_tss": 41,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_20",
       "date": "2026-03-07T09:00:00",
       "name": "Planned Workout",
       "type": "RACE_C",
@@ -476,7 +530,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_15",
+      "id": "event_21",
       "date": "2026-03-08T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
