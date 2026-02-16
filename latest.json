@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-16T16:56:58.729377",
+    "last_updated": "2026-02-16T17:42:29.696002",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -340,15 +340,6 @@
       "date": "2026-03-07T09:00:00",
       "name": "Planned Workout",
       "type": "RACE_C",
-      "description": null,
-      "planned_tss": 150,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_6",
-      "date": "2026-03-08T00:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
       "description": null,
       "planned_tss": 150,
       "duration_hours": 0.0
