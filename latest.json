@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-16T19:10:32.448442",
+    "last_updated": "2026-02-16T19:47:07.427757",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -36,10 +36,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 25.55181,
-      "atl": 48.305866,
-      "tsb": -22.75,
-      "ramp_rate": 5.3999214
+      "ctl": 28.913057,
+      "atl": 54.81982,
+      "tsb": -25.91,
+      "ramp_rate": 4.7903233
     },
     "thresholds": {
       "ftp": 183,
@@ -340,8 +340,8 @@
       "date": "2026-02-22T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- Hi Duppie let's settle in for a long steady ride 15m ramp 40-56% 90rpm\n\nMain Set\n- Aerobic Base 20m 60% 85rpm\n\n- High Cadence Block 5m 65% 100rpm\n\n- Aerobic Base 20m 62% 90rpm\n\n- Tempo Touch 30s 80%\n\n- Aerobic Base 20m 60% 85rpm\n\n- Low Cadence Strength 5m 68% 70rpm\n\n- Aerobic Base 20m 62% 90rpm\n\n- Tempo Touch 30s 80%\n\n- Aerobic Base 20m 60% 85rpm\n\n- High Cadence Block 5m 65% 100rpm\n\n- Aerobic Base 20m 62% 90rpm\n\n- Tempo Touch 30s 80%\n\n- Aerobic Base 17m 60% 85rpm\n\nCooldown\n- Great endurance work Duppie enjoy the recovery 10m ramp 55-40% 85rpm\n\n[Weekly Plan - Base]",
-      "planned_tss": 107,
+      "description": "Warmup\n- Hi Duppie let's settle into a long steady ride 15m ramp 40-56% 90rpm\n\nMain Set\n18x\n- Endurance pace 8m 65% 85rpm\n- Tempo touch 30s 82% 95rpm\n- Endurance pace 30s 60% 80rpm\n\nCooldown\n- Great job Duppie keep those legs moving 1m ramp 50-40% 85rpm\n\n[Weekly Plan - Base]",
+      "planned_tss": 123,
       "duration_hours": 0.0
     },
     {
