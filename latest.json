@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-16T15:02:56.395476",
+    "last_updated": "2026-02-16T15:57:51.261277",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -463,15 +463,6 @@
     },
     {
       "id": "event_19",
-      "date": "2026-03-09T00:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- 600s ramp 50%-75% 90rpm\n\nMain Set\n- 6900s Z2 85-90rpm\n\nCooldown\n- 600s ramp 75%-50%",
-      "planned_tss": 95,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_20",
       "date": "2026-03-09T00:00:00",
       "name": "Planned Workout",
       "type": "TARGET",
