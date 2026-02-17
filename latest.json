@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-17T22:01:50.523246",
+    "last_updated": "2026-02-17T22:51:23.836417",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -304,8 +304,8 @@
       "date": "2026-02-18T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- 15m ramp 50%-65% 90rpm\n\nMain Set\n- 65m 70% 90rpm\n\nCooldown\n- 10m ramp 60%-50% 85rpm",
-      "planned_tss": 68,
+      "description": "Warmup\n- 15m ramp 50%-65% 90rpm\n\nMain Set\n- 215m 70% 90rpm\n\nCooldown\n- 10m ramp 60%-50% 85rpm",
+      "planned_tss": 190,
       "duration_hours": 0.0
     },
     {
