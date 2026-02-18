@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-18T15:07:13.623191",
+    "last_updated": "2026-02-18T16:09:09.027516",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -36,10 +36,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 25.114841,
-      "atl": 39.93286,
-      "tsb": -14.82,
-      "ramp_rate": 4.659443
+      "ctl": 29.349937,
+      "atl": 63.89484,
+      "tsb": -34.54,
+      "ramp_rate": 8.894539
     },
     "thresholds": {
       "ftp": 183,
@@ -304,8 +304,8 @@
       "date": "2026-02-18T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- Hi Duppie let's keep it very easy today 4m ramp 40-50%\n\nMain Set\n- Spin easy and stay relaxed 19m 50% 90rpm\n\nCooldown\n- Great job recovery is key Duppie 3m ramp 50-40%",
-      "planned_tss": 10,
+      "description": "- 15m ramp 40-65%\n\n- 215m 70% 90rpm\n\nCooldown\n- Great job recovery is key Duppie 10m 50%",
+      "planned_tss": 190,
       "duration_hours": 0.0
     },
     {
