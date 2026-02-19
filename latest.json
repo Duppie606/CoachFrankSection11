@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-19T23:05:16.414773",
+    "last_updated": "2026-02-19T23:45:48.985652",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -30,10 +30,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 30.80904,
-      "atl": 67.157776,
-      "tsb": -36.35,
-      "ramp_rate": 9.093828
+      "ctl": 29.2797,
+      "atl": 58.50484,
+      "tsb": -29.23,
+      "ramp_rate": 7.5644875
     },
     "thresholds": {
       "ftp": 183,
@@ -295,15 +295,6 @@
   "planned_workouts": [
     {
       "id": "event_1",
-      "date": "2026-02-19T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- Hi Duppie let's ease into these tempo blocks 13m ramp 40-70% 90rpm\n\nMain Set\n5x\n- Tempo Block 8m 76% 85rpm\n- Recovery 5m 56% 95rpm\n\nCooldown\n- Great job staying consistent Duppie 10m ramp 55-40% 85rpm\n\n[Weekly Plan - Base]",
-      "planned_tss": 65,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_2",
       "date": "2026-02-21T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -312,12 +303,21 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_3",
+      "id": "event_2",
       "date": "2026-02-22T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "Warmup\n- Hi Duppie let's settle in for a long steady ride 15m ramp 40-55% 90rpm\n\nMain Set\n40x\n- Endurance 7m 58% 85rpm\n- Tempo Touch 30s 78% 95rpm\n- High Cadence 30s 58% 105rpm\n\nCooldown\n- Incredible endurance work Duppie time to recover 3m ramp 50-40% 85rpm\n\n[Weekly Plan - Base]",
       "planned_tss": 196,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_3",
+      "date": "2026-02-23T00:00:00",
+      "name": "Planned Workout",
+      "type": "NOTE",
+      "description": "Focus on easier efforts, reduced volume, and allowing your body to adapt to training stress",
+      "planned_tss": null,
       "duration_hours": 0.0
     },
     {
