@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-19T13:10:16.670422",
+    "last_updated": "2026-02-19T14:15:55.768627",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -30,10 +30,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 29.2797,
-      "atl": 58.50484,
-      "tsb": -29.23,
-      "ramp_rate": 7.5644875
+      "ctl": 30.714928,
+      "atl": 66.62529,
+      "tsb": -35.91,
+      "ramp_rate": 8.999716
     },
     "thresholds": {
       "ftp": 183,
@@ -42,7 +42,7 @@
       "max_hr": 177
     },
     "current_metrics": {
-      "weight_kg": 86.5,
+      "weight_kg": 86.029,
       "resting_hr": 58,
       "hrv": 32.0
     }
@@ -280,7 +280,7 @@
     },
     {
       "date": "2026-02-19",
-      "weight_kg": null,
+      "weight_kg": 86.029,
       "resting_hr": 58,
       "hrv_rmssd": 32.0,
       "hrv_sdnn": null,
@@ -295,6 +295,15 @@
   "planned_workouts": [
     {
       "id": "event_1",
+      "date": "2026-02-19T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- Hi Duppie let's ease into this aerobic build 13m ramp 40-56% 90rpm\n\nMain Set\n- Aerobic Block One 22m 60% 85rpm\n- Aerobic Block Two 22m 68% 95rpm\n- Aerobic Block Three 22m 74% 85rpm\n\nCooldown\n- Great job Duppie keep the legs moving as we finish 9m ramp 55-40% 90rpm\n\n[Weekly Plan - Base]",
+      "planned_tss": 61,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_2",
       "date": "2026-02-21T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -303,16 +312,16 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_2",
+      "id": "event_3",
       "date": "2026-02-22T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- Hi Duppie let's settle into a long steady ride 15m ramp 40-56% 90rpm\n\nMain Set\n10x\n- Endurance base 12m 65% 90rpm\n- Tempo touch 30s 82% 95rpm\n- Endurance high cadence 3m 68% 105rpm\n\nCooldown\n- Great consistency Duppie enjoy the recovery 3m ramp 50-40% 85rpm\n\n[Weekly Plan - Base]",
-      "planned_tss": 120,
+      "description": "Warmup\n- Hi Duppie let's settle into a steady rhythm for this long ride 15m ramp 40-56%\n\nMain Set\n13x\n- Normal cadence 85rpm 5m 62%\n- High cadence 100rpm 3m 65%\n- Low cadence 70rpm 4m 60%\n\nCooldown\n- Great consistency today Duppie enjoy the recovery 7m ramp 55-40%\n\n[Weekly Plan - Base]",
+      "planned_tss": 109,
       "duration_hours": 0.0
     },
     {
-      "id": "event_3",
+      "id": "event_4",
       "date": "2026-02-23T00:00:00",
       "name": "Planned Workout",
       "type": "TARGET",
@@ -321,7 +330,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_4",
+      "id": "event_5",
       "date": "2026-02-23T00:00:00",
       "name": "Planned Workout",
       "type": "NOTE",
@@ -330,7 +339,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_5",
+      "id": "event_6",
       "date": "2026-03-02T00:00:00",
       "name": "Planned Workout",
       "type": "TARGET",
@@ -339,7 +348,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_6",
+      "id": "event_7",
       "date": "2026-03-07T09:00:00",
       "name": "Planned Workout",
       "type": "RACE_C",
@@ -348,7 +357,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_7",
+      "id": "event_8",
       "date": "2026-03-09T00:00:00",
       "name": "Planned Workout",
       "type": "TARGET",
