@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-20T14:26:14.321046",
+    "last_updated": "2026-02-20T15:08:37.382823",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -304,15 +304,6 @@
     },
     {
       "id": "event_2",
-      "date": "2026-02-21T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- Hello Duppie let's settle in for a long steady day 15m ramp 40-56% 85rpm\n\nMain Set\n- Aerobic Steady State 40m 65% 90rpm\n\n6x\n- Tempo Touch 30s 82%\n- Endurance Base 7m 30s 68% 70rpm\n\n- High Cadence Block 10m 72% 100rpm\n\n20x\n- Tempo Touch 30s 82%\n- Endurance Base 7m 30s 68% 90rpm\n\n- Low Cadence Strength 10m 72% 70rpm\n\n12x\n- Tempo Touch 30s 82%\n- Endurance Base 7m 30s 68% 85rpm\n\nCooldown\n- Incredible endurance effort Duppie time to recover 7m ramp 55-40%\n\n[Weekly Plan - Base]",
-      "planned_tss": 295,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_3",
       "date": "2026-02-22T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -321,7 +312,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_4",
+      "id": "event_3",
       "date": "2026-03-07T09:00:00",
       "name": "Planned Workout",
       "type": "RACE_C",
