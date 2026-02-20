@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-19T23:45:48.985652",
+    "last_updated": "2026-02-20T02:12:28.143736",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -30,10 +30,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 29.2797,
-      "atl": 58.50484,
-      "tsb": -29.23,
-      "ramp_rate": 7.5644875
+      "ctl": 29.969282,
+      "atl": 57.640587,
+      "tsb": -27.67,
+      "ramp_rate": 8.764992
     },
     "thresholds": {
       "ftp": 183,
@@ -44,7 +44,7 @@
     "current_metrics": {
       "weight_kg": 86.029,
       "resting_hr": 58,
-      "hrv": 32.0
+      "hrv": null
     }
   },
   "recent_activities": [
@@ -201,19 +201,6 @@
   ],
   "wellness_data": [
     {
-      "date": "2026-02-13",
-      "weight_kg": 86.889,
-      "resting_hr": 55,
-      "hrv_rmssd": 34.0,
-      "hrv_sdnn": null,
-      "sleep_hours": 7.15,
-      "sleep_quality": 3,
-      "mental_energy": null,
-      "fatigue": 2,
-      "soreness": 2,
-      "avg_sleeping_hr": null
-    },
-    {
       "date": "2026-02-14",
       "weight_kg": 86.569,
       "resting_hr": 56,
@@ -290,6 +277,19 @@
       "fatigue": 3,
       "soreness": 2,
       "avg_sleeping_hr": null
+    },
+    {
+      "date": "2026-02-20",
+      "weight_kg": null,
+      "resting_hr": null,
+      "hrv_rmssd": null,
+      "hrv_sdnn": null,
+      "sleep_hours": null,
+      "sleep_quality": null,
+      "mental_energy": null,
+      "fatigue": null,
+      "soreness": null,
+      "avg_sleeping_hr": null
     }
   ],
   "planned_workouts": [
@@ -307,62 +307,17 @@
       "date": "2026-02-22T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- Hi Duppie let's settle in for a long steady ride 15m ramp 40-55% 90rpm\n\nMain Set\n40x\n- Endurance 7m 58% 85rpm\n- Tempo Touch 30s 78% 95rpm\n- High Cadence 30s 58% 105rpm\n\nCooldown\n- Incredible endurance work Duppie time to recover 3m ramp 50-40% 85rpm\n\n[Weekly Plan - Base]",
-      "planned_tss": 196,
+      "description": "Warmup\n- Hi Duppie let's settle in for a long steady day 15m ramp 40-56%\n\nMain Set\n20x\n- Steady Endurance 8m 58% 90rpm\n- High Cadence Block 5m 58% 105rpm\n- Tempo Touch 30s 76% 95rpm\n- Natural Cadence 2m 56% 85rpm\n\nCooldown\n- Incredible endurance work Duppie time to recover 13m ramp 50-40%\n\n[Weekly Plan - Base]",
+      "planned_tss": 189,
       "duration_hours": 0.0
     },
     {
       "id": "event_3",
-      "date": "2026-02-23T00:00:00",
-      "name": "Planned Workout",
-      "type": "NOTE",
-      "description": "Focus on easier efforts, reduced volume, and allowing your body to adapt to training stress",
-      "planned_tss": null,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_4",
-      "date": "2026-02-23T00:00:00",
-      "name": "Planned Workout",
-      "type": "TARGET",
-      "description": null,
-      "planned_tss": null,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_5",
-      "date": "2026-02-23T00:00:00",
-      "name": "Planned Workout",
-      "type": "NOTE",
-      "description": "Focus on easier efforts, reduced volume, and allowing your body to adapt to training stress",
-      "planned_tss": null,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_6",
-      "date": "2026-03-02T00:00:00",
-      "name": "Planned Workout",
-      "type": "TARGET",
-      "description": null,
-      "planned_tss": null,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_7",
       "date": "2026-03-07T09:00:00",
       "name": "Planned Workout",
       "type": "RACE_C",
       "description": null,
       "planned_tss": 150,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_8",
-      "date": "2026-03-09T00:00:00",
-      "name": "Planned Workout",
-      "type": "TARGET",
-      "description": null,
-      "planned_tss": null,
       "duration_hours": 0.0
     }
   ],
@@ -370,7 +325,7 @@
     "total_training_hours": 8.72,
     "total_tss": 491,
     "activities_count": 3,
-    "avg_hrv": 36.9,
-    "avg_resting_hr": 54.9
+    "avg_hrv": 37.3,
+    "avg_resting_hr": 54.8
   }
 }
