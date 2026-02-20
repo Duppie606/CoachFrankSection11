@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-20T21:57:06.743489",
+    "last_updated": "2026-02-20T22:34:28.854428",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -316,8 +316,8 @@
       "date": "2026-02-22T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- Hello Duppie let's settle in for a long day 15m ramp 40-60% 90rpm\n\nMain Set\n- Base Aerobic 45m 65% 85rpm\n- Surge 1 5m 85% 95rpm\n- Easy 30m 60% 80rpm\n- Surge 2 2m 95% 100rpm\n- Easy 40m 62% 85rpm\n- Surge 3 4m 80% 75rpm\n- Easy 35m 60% 85rpm\n- Surge 4 1m 105% 100rpm\n- Easy 50m 63% 85rpm\n- Surge 5 3m 88% 90rpm\n- Easy 45m 60% 80rpm\n- Surge 6 3m 82% 70rpm\n- Final Endurance 50m 65% 85rpm\n\nCooldown\n- Incredible endurance today Duppie 10m ramp 55-40% 85rpm\n\n[Weekly Plan - Base]",
-      "planned_tss": 226,
+      "description": "Warmup\n- Hello Duppie let's find our rhythm for this long ride 15m ramp 40-60% 90rpm\n\nMain Set\n- Steady Base 45m 65% 85rpm\n- Surge One 5m 85% 95rpm\n- Easy 20m 60% 80rpm\n- Surge Two 3m 92% 100rpm\n- Easy 35m 62% 85rpm\n- Surge Three 1m 95% 105rpm\n- Easy 40m 60% 80rpm\n- Surge Four 4m 88% 90rpm\n- Easy 50m 63% 85rpm\n- Surge Five 2m 94% 100rpm\n- Easy 45m 60% 80rpm\n- Surge Six 3m 90% 95rpm\n- Final Endurance Block 60m 65% 85rpm\n\nCooldown\n- Incredible endurance today Duppie enjoy the recovery 10m ramp 55-40% 85rpm\n\n[Weekly Plan - Base]",
+      "planned_tss": 230,
       "duration_hours": 0.0
     },
     {
