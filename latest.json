@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-20T15:08:37.382823",
+    "last_updated": "2026-02-20T15:53:50.146606",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -304,15 +304,24 @@
     },
     {
       "id": "event_2",
-      "date": "2026-02-22T09:00:00",
+      "date": "2026-02-21T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- Hi Duppie let's settle into a long steady rhythm today 15m ramp 40-56% 90rpm\n\nMain Set\n20x\n- Endurance Base 15m 60% 85rpm\n- Tempo Touch 1m 80% 95rpm\n\n- Steady Aerobic 3m 58% 85rpm\n\nCooldown\n- Great consistency Duppie let's spin the legs out 10m ramp 55-40% 90rpm\n\n[Weekly Plan - Base]",
-      "planned_tss": 213,
+      "description": "Warmup\n- 15m ramp 0-75%\n\nMain Set\n- Endurance 315m ramp 56-75%\n\nCooldown\n- 10m ramp 56-0%\n\n[Weekly Plan - Base]",
+      "planned_tss": 240,
       "duration_hours": 0.0
     },
     {
       "id": "event_3",
+      "date": "2026-02-22T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- Hello Duppie let's settle in for a long day 15m ramp 40-60% 90rpm\n\nMain Set\n- Base Aerobic 45m 65% 85rpm\n- Surge 1 5m 85% 95rpm\n- Easy 30m 60% 80rpm\n- Surge 2 2m 95% 100rpm\n- Easy 40m 62% 85rpm\n- Surge 3 4m 80% 75rpm\n- Easy 35m 60% 85rpm\n- Surge 4 1m 105% 100rpm\n- Easy 50m 63% 85rpm\n- Surge 5 3m 88% 90rpm\n- Easy 45m 60% 80rpm\n- Surge 6 3m 82% 70rpm\n- Final Endurance 50m 65% 85rpm\n\nCooldown\n- Incredible endurance today Duppie 10m ramp 55-40% 85rpm\n\n[Weekly Plan - Base]",
+      "planned_tss": 226,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_4",
       "date": "2026-03-07T09:00:00",
       "name": "Planned Workout",
       "type": "RACE_C",
