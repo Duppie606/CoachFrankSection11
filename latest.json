@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-21T20:27:33.892740",
+    "last_updated": "2026-02-21T20:51:11.556505",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -30,10 +30,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 33.7296,
-      "atl": 76.846214,
-      "tsb": -43.12,
-      "ramp_rate": 13.02421
+      "ctl": 28.623953,
+      "atl": 47.95872,
+      "tsb": -19.33,
+      "ramp_rate": 7.918564
     },
     "thresholds": {
       "ftp": 183,
@@ -304,24 +304,15 @@
     },
     {
       "id": "event_2",
-      "date": "2026-02-21T09:00:00",
+      "date": "2026-02-22T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- Hi Duppie let's settle in for a long steady ride 15m ramp 40-56% 90rpm\n\nMain Set\n- Endurance Base 45m 65% 85rpm\n\n- Tempo Touch 45s 80% 95rpm\n\n- Endurance Base 45m 62% 80rpm\n\n- Tempo Touch 45s 80% 95rpm\n\n- Endurance Base 45m 65% 90rpm\n\n- Tempo Touch 45s 80% 95rpm\n\n- Endurance Base 45m 62% 85rpm\n\n- Tempo Touch 45s 80% 95rpm\n\n- Endurance Base 45m 65% 80rpm\n\n- Tempo Touch 45s 80% 95rpm\n\n- Endurance Base 45m 62% 90rpm\n\n- Tempo Touch 45s 80% 95rpm\n\n- Final Endurance Block 35m 30s 60% 85rpm\n\nCooldown\n- Massive effort Duppie time to recover and refuel 10m ramp 55-40% 85rpm\n\n[Weekly Plan - Base]",
-      "planned_tss": 217,
+      "description": "Warmup\n- 10m ramp 40-75% 85rpm\n\nMain Set\n- Endurance 105m 72-75% 90rpm\n\nCooldown\n- 5m ramp 70-40% 85rpm\n\n[Weekly Plan - Base]",
+      "planned_tss": 104,
       "duration_hours": 0.0
     },
     {
       "id": "event_3",
-      "date": "2026-02-22T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- 15m ramp 40-75%\n\nMain Set\n- Endurance 315m ramp 56-75%\n\nCooldown\n- 10m ramp 56-40%\n\n[Weekly Plan - Base]",
-      "planned_tss": 244,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_4",
       "date": "2026-03-07T09:00:00",
       "name": "Planned Workout",
       "type": "RACE_C",
