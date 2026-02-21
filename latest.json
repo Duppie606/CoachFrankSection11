@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-21T12:51:55.733608",
+    "last_updated": "2026-02-21T13:43:25.560505",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -30,10 +30,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 30.317991,
-      "atl": 57.543514,
-      "tsb": -27.23,
-      "ramp_rate": 9.612602
+      "ctl": 33.5649,
+      "atl": 75.91436,
+      "tsb": -42.35,
+      "ramp_rate": 12.85951
     },
     "thresholds": {
       "ftp": 183,
@@ -42,7 +42,7 @@
       "max_hr": 177
     },
     "current_metrics": {
-      "weight_kg": 86.739,
+      "weight_kg": 86.699,
       "resting_hr": 54,
       "hrv": 47.0
     }
@@ -280,15 +280,15 @@
     },
     {
       "date": "2026-02-21",
-      "weight_kg": null,
+      "weight_kg": 86.699,
       "resting_hr": 54,
       "hrv_rmssd": 47.0,
       "hrv_sdnn": null,
-      "sleep_hours": 8.19,
+      "sleep_hours": 8.18,
       "sleep_quality": 2,
       "mental_energy": null,
-      "fatigue": null,
-      "soreness": null,
+      "fatigue": 2,
+      "soreness": 2,
       "avg_sleeping_hr": null
     }
   ],
@@ -298,8 +298,8 @@
       "date": "2026-02-21T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- 20m ramp 55%-72% 90rpm\n\nMain Set\n- 90m 74% 90rpm\n\nCooldown\n- 10m ramp 65%-50% 85rpm",
-      "planned_tss": 102,
+      "description": "Warmup\n- 15m ramp 0-75%\n\nMain Set\n- Endurance 315m ramp 56-75%\n\nCooldown\n- 10m ramp 56-0%\n\n[Weekly Plan - Base]",
+      "planned_tss": 240,
       "duration_hours": 0.0
     },
     {
@@ -307,8 +307,8 @@
       "date": "2026-02-22T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- Hello Duppie let's find our rhythm for this long ride 15m ramp 40-60% 90rpm\n\nMain Set\n- Steady Base 45m 65% 85rpm\n- Surge One 5m 85% 95rpm\n- Easy 20m 60% 80rpm\n- Surge Two 3m 92% 100rpm\n- Easy 35m 62% 85rpm\n- Surge Three 1m 95% 105rpm\n- Easy 40m 60% 80rpm\n- Surge Four 4m 88% 90rpm\n- Easy 50m 63% 85rpm\n- Surge Five 2m 94% 100rpm\n- Easy 45m 60% 80rpm\n- Surge Six 3m 90% 95rpm\n- Final Endurance Block 60m 65% 85rpm\n\nCooldown\n- Incredible endurance today Duppie enjoy the recovery 10m ramp 55-40% 85rpm\n\n[Weekly Plan - Base]",
-      "planned_tss": 230,
+      "description": "Warmup\n- Hello Duppie let's settle in for a long steady ride 15m ramp 40-56% 90rpm\n\nMain Set\n39x\n- Endurance Base 8m 65% 85rpm\n- Tempo Touch 30s 82% 95rpm\n\nCooldown\n- Fantastic endurance work Duppie time to recover 11m 30s ramp 55-40% 80rpm\n\n[Weekly Plan - Base]",
+      "planned_tss": 252,
       "duration_hours": 0.0
     },
     {
