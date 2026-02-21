@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-21T13:43:25.560505",
+    "last_updated": "2026-02-21T14:03:15.495995",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -30,10 +30,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 33.5649,
-      "atl": 75.91436,
-      "tsb": -42.35,
-      "ramp_rate": 12.85951
+      "ctl": 30.294464,
+      "atl": 57.41039,
+      "tsb": -27.12,
+      "ramp_rate": 9.589075
     },
     "thresholds": {
       "ftp": 183,
@@ -298,8 +298,8 @@
       "date": "2026-02-21T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- 15m ramp 0-75%\n\nMain Set\n- Endurance 315m ramp 56-75%\n\nCooldown\n- 10m ramp 56-0%\n\n[Weekly Plan - Base]",
-      "planned_tss": 240,
+      "description": "Warmup\n- 10m ramp 0-75%\n\nMain Set\n- Endurance 105m 73%\n\nCooldown\n- 5m ramp 70-50%\n\n[Weekly Plan - Base]",
+      "planned_tss": 101,
       "duration_hours": 0.0
     },
     {
@@ -307,8 +307,8 @@
       "date": "2026-02-22T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- Hello Duppie let's settle in for a long steady ride 15m ramp 40-56% 90rpm\n\nMain Set\n39x\n- Endurance Base 8m 65% 85rpm\n- Tempo Touch 30s 82% 95rpm\n\nCooldown\n- Fantastic endurance work Duppie time to recover 11m 30s ramp 55-40% 80rpm\n\n[Weekly Plan - Base]",
-      "planned_tss": 252,
+      "description": "Warmup\n- 10m ramp 50-70% 90rpm\n\nMain Set\n11x\n- Endurance Base 8m 70% 90rpm\n- Tempo Touch 1m 85% 95rpm\n\nCooldown\n- 5m ramp 70-50% 80rpm\n\n[Weekly Plan - Base]",
+      "planned_tss": 96,
       "duration_hours": 0.0
     },
     {
