@@ -3,43 +3,37 @@
     "instruction_for_ai": "DO NOT calculate totals from individual activities. Use the pre-calculated values in 'summary' and 'weekly_summary' sections below. These are already computed accurately from the API data.",
     "data_period": "Last 7 days (including today)",
     "quick_stats": {
-      "total_training_hours": 9.22,
-      "total_activities": 4,
-      "total_tss": 521
+      "total_training_hours": 8.72,
+      "total_activities": 3,
+      "total_tss": 491
     }
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-21T19:46:42.908778",
+    "last_updated": "2026-02-21T20:27:33.892740",
     "data_range_days": 7,
     "version": "1.0.0"
   },
   "summary": {
     "period_description": "Last 7 days of training (including today)",
     "note": "Duration calculated from API moving_time field. Minor differences (<30s) from Intervals.icu dashboard are normal due to rounding.",
-    "total_duration_decimal_hours": 9.22,
-    "total_activities": 4,
+    "total_duration_decimal_hours": 8.72,
+    "total_activities": 3,
     "by_activity_type": {
       "Ride": {
         "duration_decimal_hours": 8.72,
         "count": 3,
         "tss": 491,
         "distance_km": 204.2
-      },
-      "VirtualRow": {
-        "duration_decimal_hours": 0.5,
-        "count": 1,
-        "tss": 30,
-        "distance_km": 0.0
       }
     }
   },
   "current_status": {
     "fitness": {
-      "ctl": 33.42373,
-      "atl": 75.11563,
-      "tsb": -41.69,
-      "ramp_rate": 12.71834
+      "ctl": 33.7296,
+      "atl": 76.846214,
+      "tsb": -43.12,
+      "ramp_rate": 13.02421
     },
     "thresholds": {
       "ftp": 183,
@@ -56,38 +50,6 @@
   "recent_activities": [
     {
       "id": "activity_1",
-      "date": "2026-02-21T00:00:00",
-      "type": "VirtualRow",
-      "name": "Training Session",
-      "duration_hours": 0.5,
-      "distance_km": 0.0,
-      "tss": 30,
-      "intensity_factor": 77.45966,
-      "avg_power": null,
-      "normalized_power": null,
-      "avg_hr": null,
-      "max_hr": null,
-      "avg_cadence": null,
-      "avg_speed": null,
-      "max_speed": null,
-      "avg_pace": null,
-      "avg_temp": null,
-      "weather": null,
-      "humidity": null,
-      "wind_speed": null,
-      "work_kj": null,
-      "calories": null,
-      "carbs_used": null,
-      "carbs_ingested": null,
-      "variability_index": null,
-      "decoupling": null,
-      "elevation_m": null,
-      "feel": null,
-      "rpe": null,
-      "zone_distribution": null
-    },
-    {
-      "id": "activity_2",
       "date": "2026-02-18T12:22:50",
       "type": "Ride",
       "name": "Training Session",
@@ -137,7 +99,7 @@
       }
     },
     {
-      "id": "activity_3",
+      "id": "activity_2",
       "date": "2026-02-16T15:16:17",
       "type": "Ride",
       "name": "Training Session",
@@ -187,7 +149,7 @@
       }
     },
     {
-      "id": "activity_4",
+      "id": "activity_3",
       "date": "2026-02-15T11:40:05",
       "type": "Ride",
       "name": "Training Session",
@@ -345,8 +307,8 @@
       "date": "2026-02-21T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- Hello Duppie let's settle in for a long steady ride 15m ramp 40-56% 90rpm\n\nMain Set\n- Steady Aerobic 40m 60% 85rpm\n\n- High Cadence Block 5m 65% 105rpm\n\n- Steady Aerobic 40m 62% 90rpm\n\n- Tempo Touch 30s 80%\n\n- Low Cadence Strength 5m 68% 65rpm\n\n- Steady Aerobic 40m 60% 85rpm\n\n- Tempo Touch 30s 80%\n\n- High Cadence Block 5m 65% 105rpm\n\n- Steady Aerobic 40m 62% 90rpm\n\n- Tempo Touch 30s 80%\n\n- Low Cadence Strength 5m 68% 65rpm\n\n- Steady Aerobic 40m 60% 85rpm\n\n- Tempo Touch 30s 80%\n\n- High Cadence Block 5m 65% 105rpm\n\n- Steady Aerobic 87m 60% 90rpm\n\nCooldown\n- Incredible endurance effort Duppie time to recover 10m ramp 55-40% 85rpm\n\n[Weekly Plan - Base]",
-      "planned_tss": 204,
+      "description": "Warmup\n- Hi Duppie let's settle in for a long steady ride 15m ramp 40-56% 90rpm\n\nMain Set\n- Endurance Base 45m 65% 85rpm\n\n- Tempo Touch 45s 80% 95rpm\n\n- Endurance Base 45m 62% 80rpm\n\n- Tempo Touch 45s 80% 95rpm\n\n- Endurance Base 45m 65% 90rpm\n\n- Tempo Touch 45s 80% 95rpm\n\n- Endurance Base 45m 62% 85rpm\n\n- Tempo Touch 45s 80% 95rpm\n\n- Endurance Base 45m 65% 80rpm\n\n- Tempo Touch 45s 80% 95rpm\n\n- Endurance Base 45m 62% 90rpm\n\n- Tempo Touch 45s 80% 95rpm\n\n- Final Endurance Block 35m 30s 60% 85rpm\n\nCooldown\n- Massive effort Duppie time to recover and refuel 10m ramp 55-40% 85rpm\n\n[Weekly Plan - Base]",
+      "planned_tss": 217,
       "duration_hours": 0.0
     },
     {
@@ -354,8 +316,8 @@
       "date": "2026-02-22T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- 15m ramp 0-75%\n\nMain Set\n- Endurance 315m ramp 56-75%\n\nCooldown\n- 10m ramp 56-0%\n\n[Weekly Plan - Base]",
-      "planned_tss": 240,
+      "description": "Warmup\n- 15m ramp 40-75%\n\nMain Set\n- Endurance 315m ramp 56-75%\n\nCooldown\n- 10m ramp 56-40%\n\n[Weekly Plan - Base]",
+      "planned_tss": 244,
       "duration_hours": 0.0
     },
     {
@@ -369,9 +331,9 @@
     }
   ],
   "weekly_summary": {
-    "total_training_hours": 9.22,
-    "total_tss": 521,
-    "activities_count": 4,
+    "total_training_hours": 8.72,
+    "total_tss": 491,
+    "activities_count": 3,
     "avg_hrv": 39.9,
     "avg_resting_hr": 53.9
   }
