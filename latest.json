@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-22T11:57:29.738198",
+    "last_updated": "2026-02-22T13:07:34.361274",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -36,10 +36,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 28.111303,
-      "atl": 42.38216,
-      "tsb": -14.27,
-      "ramp_rate": 3.7991505
+      "ctl": 29.469025,
+      "atl": 50.501762,
+      "tsb": -21.03,
+      "ramp_rate": 5.156872
     },
     "thresholds": {
       "ftp": 183,
@@ -49,8 +49,8 @@
     },
     "current_metrics": {
       "weight_kg": 86.699,
-      "resting_hr": 57,
-      "hrv": null
+      "resting_hr": 54,
+      "hrv": 48.0
     }
   },
   "recent_activities": [
@@ -279,25 +279,25 @@
     {
       "date": "2026-02-22",
       "weight_kg": null,
-      "resting_hr": 57,
-      "hrv_rmssd": null,
+      "resting_hr": 54,
+      "hrv_rmssd": 48.0,
       "hrv_sdnn": null,
-      "sleep_hours": null,
-      "sleep_quality": null,
+      "sleep_hours": 9.63,
+      "sleep_quality": 2,
       "mental_energy": null,
-      "fatigue": null,
-      "soreness": null,
+      "fatigue": 2,
+      "soreness": 2,
       "avg_sleeping_hr": null
     }
   ],
   "planned_workouts": [
     {
       "id": "event_1",
-      "date": "2026-02-23T09:00:00",
+      "date": "2026-02-22T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- Hello Duppie let's settle into a steady rhythm 13m ramp 40-56% 90rpm\n\nMain Set\n- Steady aerobic 8m 62% 85rpm\n- Tempo touch 30s 80% 95rpm\n- High cadence block 5m 65% 105rpm\n- Steady aerobic 8m 62% 85rpm\n- Tempo touch 30s 80% 95rpm\n- Low cadence strength 5m 65% 65rpm\n- Steady aerobic 8m 62% 85rpm\n- Tempo touch 30s 80% 95rpm\n- High cadence block 5m 65% 105rpm\n- Steady aerobic 8m 62% 85rpm\n- Tempo touch 30s 80% 95rpm\n- Low cadence strength 5m 65% 65rpm\n- Steady aerobic 10m 60% 90rpm\n\nCooldown\n- Great work Duppie stay relaxed and spin it out 9m ramp 55-40% 90rpm\n\n[Weekly Plan - Base]",
-      "planned_tss": 52,
+      "description": "Warmup\n- Hello Duppie let's settle into a steady rhythm 10m ramp 50-68% 90rpm\n\n6x\nMain Set\n- Steady aerobic 8m 68% 90rpm\n- Tempo touch 2m 80% 95rpm\n- High cadence block 5m 65% 100rpm\n\n- Steady aerobic 10m 68% 90rpm\n\nCooldown\n- Great work Duppie stay relaxed and spin it out 5m ramp 55-40% 90rpm\n\n[Weekly Plan - Base]",
+      "planned_tss": 87,
       "duration_hours": 0.0
     },
     {
@@ -350,7 +350,7 @@
     "total_training_hours": 6.34,
     "total_tss": 324,
     "activities_count": 3,
-    "avg_hrv": 40.7,
-    "avg_resting_hr": 53.7
+    "avg_hrv": 41.7,
+    "avg_resting_hr": 53.3
   }
 }
