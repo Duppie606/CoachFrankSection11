@@ -1,0 +1,356 @@
+{
+  "READ_THIS_FIRST": {
+    "instruction_for_ai": "DO NOT calculate totals from individual activities. Use the pre-calculated values in 'summary' and 'weekly_summary' sections below. These are already computed accurately from the API data.",
+    "data_period": "Last 7 days (including today)",
+    "quick_stats": {
+      "total_training_hours": 6.34,
+      "total_activities": 3,
+      "total_tss": 324
+    }
+  },
+  "metadata": {
+    "athlete_id": "REDACTED",
+    "last_updated": "2026-02-22T04:29:18.104222",
+    "data_range_days": 7,
+    "version": "1.0.0"
+  },
+  "summary": {
+    "period_description": "Last 7 days of training (including today)",
+    "note": "Duration calculated from API moving_time field. Minor differences (<30s) from Intervals.icu dashboard are normal due to rounding.",
+    "total_duration_decimal_hours": 6.34,
+    "total_activities": 3,
+    "by_activity_type": {
+      "Ride": {
+        "duration_decimal_hours": 6.03,
+        "count": 2,
+        "tss": 317,
+        "distance_km": 138.2
+      },
+      "VirtualRow": {
+        "duration_decimal_hours": 0.31,
+        "count": 1,
+        "tss": 7,
+        "distance_km": 0.0
+      }
+    }
+  },
+  "current_status": {
+    "fitness": {
+      "ctl": 28.111303,
+      "atl": 42.38216,
+      "tsb": -14.27,
+      "ramp_rate": 3.7991505
+    },
+    "thresholds": {
+      "ftp": 183,
+      "ftp_indoor": 183,
+      "lthr": 161,
+      "max_hr": 177
+    },
+    "current_metrics": {
+      "weight_kg": 86.699,
+      "resting_hr": 54,
+      "hrv": null
+    }
+  },
+  "recent_activities": [
+    {
+      "id": "activity_1",
+      "date": "2026-02-21T15:47:15",
+      "type": "VirtualRow",
+      "name": "Training Session",
+      "duration_hours": 0.31,
+      "distance_km": 0.0,
+      "tss": 7,
+      "intensity_factor": 47.455357,
+      "avg_power": null,
+      "normalized_power": null,
+      "avg_hr": 109,
+      "max_hr": 126,
+      "avg_cadence": 24.158907,
+      "avg_speed": null,
+      "max_speed": null,
+      "avg_pace": null,
+      "avg_temp": null,
+      "weather": null,
+      "humidity": null,
+      "wind_speed": null,
+      "work_kj": null,
+      "calories": 122,
+      "carbs_used": null,
+      "carbs_ingested": null,
+      "variability_index": null,
+      "decoupling": null,
+      "elevation_m": null,
+      "feel": null,
+      "rpe": null,
+      "zone_distribution": {
+        "hr_zones": {
+          "z1_time": 1121,
+          "z2_time": 0,
+          "z3_time": 0,
+          "z4_time": 0,
+          "z5_time": 0,
+          "z6_time": 0,
+          "z7_time": 0
+        }
+      }
+    },
+    {
+      "id": "activity_2",
+      "date": "2026-02-18T12:22:50",
+      "type": "Ride",
+      "name": "Training Session",
+      "duration_hours": 4.37,
+      "distance_km": 98.88,
+      "tss": 217,
+      "intensity_factor": 70.491806,
+      "avg_power": 115,
+      "normalized_power": 129,
+      "avg_hr": 144,
+      "max_hr": 168,
+      "avg_cadence": 84.56674,
+      "avg_speed": 22.6,
+      "max_speed": 36.9,
+      "avg_pace": null,
+      "avg_temp": 16.722841,
+      "weather": null,
+      "humidity": null,
+      "wind_speed": 7.403758,
+      "work_kj": 1826.1,
+      "calories": 2230,
+      "carbs_used": 421,
+      "carbs_ingested": 300,
+      "variability_index": 1.1217391,
+      "decoupling": 5.436742,
+      "elevation_m": 361.0,
+      "feel": 2,
+      "rpe": 7,
+      "zone_distribution": {
+        "hr_zones": {
+          "z1_time": 1205,
+          "z2_time": 6725,
+          "z3_time": 3627,
+          "z4_time": 3844,
+          "z5_time": 243,
+          "z6_time": 73,
+          "z7_time": 0
+        },
+        "power_zones": {
+          "z1_time": 5267,
+          "z2_time": 5849,
+          "z3_time": 2556,
+          "z4_time": 1068,
+          "z5_time": 484,
+          "z6_time": 493
+        }
+      }
+    },
+    {
+      "id": "activity_3",
+      "date": "2026-02-16T15:16:17",
+      "type": "Ride",
+      "name": "Training Session",
+      "duration_hours": 1.66,
+      "distance_km": 39.35,
+      "tss": 100,
+      "intensity_factor": 77.59563,
+      "avg_power": 126,
+      "normalized_power": 142,
+      "avg_hr": 135,
+      "max_hr": 154,
+      "avg_cadence": 84.481926,
+      "avg_speed": 23.7,
+      "max_speed": 38.1,
+      "avg_pace": null,
+      "avg_temp": 18.155092,
+      "weather": null,
+      "humidity": null,
+      "wind_speed": 5.211659,
+      "work_kj": 762.6,
+      "calories": 917,
+      "carbs_used": 150,
+      "carbs_ingested": 100,
+      "variability_index": 1.1269841,
+      "decoupling": -7.2809916,
+      "elevation_m": 112.0,
+      "feel": 3,
+      "rpe": 6,
+      "zone_distribution": {
+        "hr_zones": {
+          "z1_time": 1491,
+          "z2_time": 3656,
+          "z3_time": 718,
+          "z4_time": 120,
+          "z5_time": 0,
+          "z6_time": 0,
+          "z7_time": 0
+        },
+        "power_zones": {
+          "z1_time": 1571,
+          "z2_time": 2108,
+          "z3_time": 1069,
+          "z4_time": 591,
+          "z5_time": 294,
+          "z6_time": 352
+        }
+      }
+    }
+  ],
+  "wellness_data": [
+    {
+      "date": "2026-02-16",
+      "weight_kg": 86.05,
+      "resting_hr": 54,
+      "hrv_rmssd": 38.0,
+      "hrv_sdnn": null,
+      "sleep_hours": 9.75,
+      "sleep_quality": 2,
+      "mental_energy": null,
+      "fatigue": null,
+      "soreness": null,
+      "avg_sleeping_hr": null
+    },
+    {
+      "date": "2026-02-17",
+      "weight_kg": 86.79,
+      "resting_hr": 51,
+      "hrv_rmssd": 43.0,
+      "hrv_sdnn": null,
+      "sleep_hours": 7.6,
+      "sleep_quality": 2,
+      "mental_energy": null,
+      "fatigue": 2,
+      "soreness": 2,
+      "avg_sleeping_hr": null
+    },
+    {
+      "date": "2026-02-18",
+      "weight_kg": 86.5,
+      "resting_hr": 52,
+      "hrv_rmssd": 41.0,
+      "hrv_sdnn": null,
+      "sleep_hours": null,
+      "sleep_quality": null,
+      "mental_energy": null,
+      "fatigue": 2,
+      "soreness": 2,
+      "avg_sleeping_hr": null
+    },
+    {
+      "date": "2026-02-19",
+      "weight_kg": 86.029,
+      "resting_hr": 55,
+      "hrv_rmssd": 32.0,
+      "hrv_sdnn": null,
+      "sleep_hours": 9.25,
+      "sleep_quality": 3,
+      "mental_energy": null,
+      "fatigue": 3,
+      "soreness": 2,
+      "avg_sleeping_hr": null
+    },
+    {
+      "date": "2026-02-20",
+      "weight_kg": 86.739,
+      "resting_hr": 53,
+      "hrv_rmssd": 43.0,
+      "hrv_sdnn": null,
+      "sleep_hours": 8.63,
+      "sleep_quality": 1,
+      "mental_energy": null,
+      "fatigue": 2,
+      "soreness": 2,
+      "avg_sleeping_hr": null
+    },
+    {
+      "date": "2026-02-21",
+      "weight_kg": 86.699,
+      "resting_hr": 54,
+      "hrv_rmssd": 47.0,
+      "hrv_sdnn": null,
+      "sleep_hours": 8.18,
+      "sleep_quality": 2,
+      "mental_energy": null,
+      "fatigue": 2,
+      "soreness": 2,
+      "avg_sleeping_hr": null
+    },
+    {
+      "date": "2026-02-22",
+      "weight_kg": null,
+      "resting_hr": null,
+      "hrv_rmssd": null,
+      "hrv_sdnn": null,
+      "sleep_hours": null,
+      "sleep_quality": null,
+      "mental_energy": null,
+      "fatigue": null,
+      "soreness": null,
+      "avg_sleeping_hr": null
+    }
+  ],
+  "planned_workouts": [
+    {
+      "id": "event_1",
+      "date": "2026-02-23T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- Hello Duppie let's settle into a steady rhythm 13m ramp 40-56% 90rpm\n\nMain Set\n- Steady aerobic 8m 62% 85rpm\n- Tempo touch 30s 80% 95rpm\n- High cadence block 5m 65% 105rpm\n- Steady aerobic 8m 62% 85rpm\n- Tempo touch 30s 80% 95rpm\n- Low cadence strength 5m 65% 65rpm\n- Steady aerobic 8m 62% 85rpm\n- Tempo touch 30s 80% 95rpm\n- High cadence block 5m 65% 105rpm\n- Steady aerobic 8m 62% 85rpm\n- Tempo touch 30s 80% 95rpm\n- Low cadence strength 5m 65% 65rpm\n- Steady aerobic 10m 60% 90rpm\n\nCooldown\n- Great work Duppie stay relaxed and spin it out 9m ramp 55-40% 90rpm\n\n[Weekly Plan - Base]",
+      "planned_tss": 52,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_2",
+      "date": "2026-02-25T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- Hi Duppie let's settle into a steady rhythm 9m ramp 40-55% 90rpm\n\nMain Set\n- Normal Cadence 8m 65% 85rpm\n- Tempo Touch 30s 80% 95rpm\n- High Cadence 5m 62% 105rpm\n- Normal Cadence 8m 68% 85rpm\n- Tempo Touch 30s 80% 95rpm\n- Low Cadence 5m 62% 65rpm\n- Normal Cadence 8m 65% 85rpm\n- Tempo Touch 30s 80% 95rpm\n- Final Aerobic Block 8m 60% 90rpm\n\nCooldown\n- Great job Duppie keep the legs moving as we finish 6m ramp 55-40% 85rpm\n\n[Weekly Plan - Base]",
+      "planned_tss": 37,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_3",
+      "date": "2026-02-26T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- Hi Duppie let's settle into a steady rhythm for this long ride 13m ramp 40-56% 90rpm\n\nMain Set\n- Aerobic Base 8m 60% 85rpm\n- Tempo Touch 30s 82% 95rpm\n- Aerobic Base 8m 62% 85rpm\n- High Cadence Block 5m 65% 105rpm\n- Aerobic Base 8m 60% 85rpm\n- Tempo Touch 30s 82% 95rpm\n- Aerobic Base 8m 64% 85rpm\n- Low Cadence Strength 5m 68% 65rpm\n- Aerobic Base 8m 60% 85rpm\n- Tempo Touch 30s 82% 95rpm\n- Aerobic Base 8m 62% 85rpm\n- High Cadence Block 4m 65% 105rpm\n\nCooldown\n- Great consistency Duppie let's bring the heart rate down slowly 9m ramp 55-40% 85rpm\n\n[Weekly Plan - Base]",
+      "planned_tss": 51,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_4",
+      "date": "2026-02-28T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- Hi Duppie let's settle in for a long steady ride 15m ramp 40-60% 90rpm\n\nMain Set\n10x\n- Endurance Base 25m 62% 85rpm\n- Tempo Touch 30s 82% 95rpm\n- High Cadence Block 5m 65% 105rpm\n\nCooldown\n- Great endurance work Duppie time to recover 13m ramp 55-40% 80rpm\n\n[Weekly Plan - Base]",
+      "planned_tss": 212,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_5",
+      "date": "2026-03-01T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 15m ramp 40-75%\n\nMain Set\n- Endurance 315m ramp 56-75%\n\nCooldown\n- 10m ramp 56-40%\n\n[Weekly Plan - Base]",
+      "planned_tss": 244,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_6",
+      "date": "2026-03-07T09:00:00",
+      "name": "Planned Workout",
+      "type": "RACE_C",
+      "description": null,
+      "planned_tss": 150,
+      "duration_hours": 0.0
+    }
+  ],
+  "weekly_summary": {
+    "total_training_hours": 6.34,
+    "total_tss": 324,
+    "activities_count": 3,
+    "avg_hrv": 40.7,
+    "avg_resting_hr": 53.2
+  }
+}
