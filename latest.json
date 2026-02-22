@@ -10,7 +10,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-22T21:49:45.286267",
+    "last_updated": "2026-02-22T22:27:00.351919",
     "data_range_days": 7,
     "version": "1.0.0"
   },
@@ -349,47 +349,47 @@
   "planned_workouts": [
     {
       "id": "event_1",
-      "date": "2026-02-22T09:00:00",
+      "date": "2026-02-23T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- Hello Duppie let's settle into a steady rhythm 10m ramp 50-68% 90rpm\n\n6x\nMain Set\n- Steady aerobic 8m 68% 90rpm\n- Tempo touch 2m 80% 95rpm\n- High cadence block 5m 65% 100rpm\n\n- Steady aerobic 10m 68% 90rpm\n\nCooldown\n- Great work Duppie stay relaxed and spin it out 5m ramp 55-40% 90rpm\n\n[Weekly Plan - Base]",
-      "planned_tss": 87,
+      "description": "Warmup\n- Hi Duppie let's ease into this endurance ride 5m ramp 40-56% 85rpm\n\nMain Set\n- Aerobic Base 8m 65% 90rpm\n- Tempo Touch 30s 82% 95rpm\n- Aerobic Base 8m 62% 85rpm\n- Tempo Touch 30s 82% 95rpm\n- Aerobic Base 5m 68% 90rpm\n\nCooldown\n- Great job Duppie keep the legs moving 3m ramp 50-40% 80rpm\n\n[Weekly Plan - Base]",
+      "planned_tss": 19,
       "duration_hours": 0.0
     },
     {
       "id": "event_2",
-      "date": "2026-02-23T09:00:00",
+      "date": "2026-02-25T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- Hi Duppie let's settle into a steady rhythm 9m ramp 40-55% 90rpm\n\nMain Set\n- Normal Cadence 8m 65% 85rpm\n- Tempo Touch 30s 80% 95rpm\n- High Cadence 5m 62% 105rpm\n- Normal Cadence 8m 68% 85rpm\n- Tempo Touch 30s 80% 95rpm\n- Low Cadence 5m 62% 65rpm\n- Normal Cadence 8m 65% 85rpm\n- Tempo Touch 30s 80% 95rpm\n- Final Aerobic Block 8m 60% 90rpm\n\nCooldown\n- Great job Duppie keep the legs moving as we finish 6m ramp 55-40% 85rpm\n\n[Weekly Plan - Base]",
-      "planned_tss": 37,
+      "description": "Warmup\n- Hi Duppie let's ease into this steady ride 5m ramp 40-55% 85rpm\n\nMain Set\n- Steady Aerobic 8m 65% 90rpm\n- Tempo Touch 30s 82% 95rpm\n- High Cadence Block 4m 60% 105rpm\n- Steady Aerobic 7m 68% 85rpm\n- Tempo Touch 30s 82% 95rpm\n- Low Cadence Strength 2m 62% 70rpm\n\nCooldown\n- Great job Duppie keep the legs moving 3m ramp 50-40% 80rpm\n\n[Weekly Plan - Base]",
+      "planned_tss": 19,
       "duration_hours": 0.0
     },
     {
       "id": "event_3",
-      "date": "2026-02-25T09:00:00",
+      "date": "2026-02-26T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- Hi Duppie let's settle into a steady rhythm 9m ramp 40-55% 90rpm\n\nMain Set\n- Normal Cadence 8m 65% 85rpm\n- Tempo Touch 30s 80% 95rpm\n- High Cadence 5m 62% 105rpm\n- Normal Cadence 8m 68% 85rpm\n- Tempo Touch 30s 80% 95rpm\n- Low Cadence 5m 62% 65rpm\n- Normal Cadence 8m 65% 85rpm\n- Tempo Touch 30s 80% 95rpm\n- Final Aerobic Block 8m 60% 90rpm\n\nCooldown\n- Great job Duppie keep the legs moving as we finish 6m ramp 55-40% 85rpm\n\n[Weekly Plan - Base]",
-      "planned_tss": 37,
+      "description": "Warmup\n- Hi Duppie let's start with some light speed play 10m ramp 40-70% 90rpm\n\nMain Set\n- Steady 5m 65% 85rpm\n- Surge 1 2m 85% 95rpm\n- Float 4m 70% 85rpm\n- Surge 2 4m 80% 80rpm\n- Float 3m 65% 90rpm\n- Surge 3 1m 95% 100rpm\n- Float 5m 70% 85rpm\n- Surge 4 3m 88% 75rpm\n- Float 6m 65% 90rpm\n- Surge 5 5m 82% 85rpm\n- Float 4m 70% 85rpm\n- Surge 6 2m 92% 95rpm\n- Steady 4m 65% 85rpm\n\nCooldown\n- Great work Duppie stay smooth on the way home 6m ramp 60-40% 90rpm\n\n[Weekly Plan - Base]",
+      "planned_tss": 54,
       "duration_hours": 0.0
     },
     {
       "id": "event_4",
-      "date": "2026-02-26T09:00:00",
+      "date": "2026-02-28T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- Hi Duppie let's settle into a steady rhythm for this long ride 13m ramp 40-56% 90rpm\n\nMain Set\n- Aerobic Base 8m 60% 85rpm\n- Tempo Touch 30s 82% 95rpm\n- Aerobic Base 8m 62% 85rpm\n- High Cadence Block 5m 65% 105rpm\n- Aerobic Base 8m 60% 85rpm\n- Tempo Touch 30s 82% 95rpm\n- Aerobic Base 8m 64% 85rpm\n- Low Cadence Strength 5m 68% 65rpm\n- Aerobic Base 8m 60% 85rpm\n- Tempo Touch 30s 82% 95rpm\n- Aerobic Base 8m 62% 85rpm\n- High Cadence Block 4m 65% 105rpm\n\nCooldown\n- Great consistency Duppie let's bring the heart rate down slowly 9m ramp 55-40% 85rpm\n\n[Weekly Plan - Base]",
-      "planned_tss": 51,
+      "description": "Warmup\n- 15m ramp 40-75%\n\nMain Set\n- Endurance 1 5m ramp 56-75%\n- Surge 1 1m ramp 76-87%\n- Endurance 2 5m ramp 56-75%\n- Surge 2 2m ramp 95-105%\n- Endurance 3 5m ramp 56-75%\n- Surge 3 3m ramp 76-87%\n- Endurance 4 5m ramp 56-75%\n- Surge 4 2m ramp 95-105%\n- Endurance 5 5m ramp 56-75%\n- Surge 5 1m ramp 76-87%\n- Endurance 6 5m ramp 56-75%\n- Surge 6 1m ramp 95-105%\n- Endurance 7 5m ramp 56-75%\n- Surge 7 2m ramp 76-87%\n- Endurance 8 5m ramp 56-75%\n- Surge 8 3m ramp 95-105%\n- Endurance 9 5m ramp 56-75%\n- Surge 9 2m ramp 76-87%\n- Endurance 10 5m ramp 56-75%\n- Surge 10 1m ramp 95-105%\n- Endurance 11 5m ramp 56-75%\n- Surge 11 1m ramp 76-87%\n- Endurance 12 5m ramp 56-75%\n- Surge 12 2m ramp 95-105%\n- Endurance 13 5m ramp 56-75%\n- Surge 13 3m ramp 76-87%\n- Endurance 14 5m ramp 56-75%\n- Surge 14 2m ramp 95-105%\n- Endurance 15 5m ramp 56-75%\n- Surge 15 1m ramp 76-87%\n- Endurance 16 5m ramp 56-75%\n- Surge 16 1m ramp 95-105%\n- Endurance 17 5m ramp 56-75%\n- Surge 17 2m ramp 76-87%\n- Endurance 18 5m ramp 56-75%\n- Surge 18 3m ramp 95-105%\n- Endurance 19 5m ramp 56-75%\n- Surge 19 2m ramp 76-87%\n- Endurance 20 5m ramp 56-75%\n- Surge 20 1m ramp 95-105%\n- Endurance 21 5m ramp 56-75%\n- Surge 21 1m ramp 76-87%\n- Endurance 22 5m ramp 56-75%\n- Surge 22 2m ramp 95-105%\n- Endurance 23 5m ramp 56-75%\n- Surge 23 3m ramp 76-87%\n- Endurance 24 5m ramp 56-75%\n- Surge 24 2m ramp 95-105%\n- Endurance 25 5m ramp 56-75%\n- Surge 25 1m ramp 76-87%\n- Endurance 26 5m ramp 56-75%\n- Surge 26 1m ramp 95-105%\n- Endurance 27 5m ramp 56-75%\n- Surge 27 2m ramp 76-87%\n- Endurance 28 5m ramp 56-75%\n- Surge 28 3m ramp 95-105%\n- Endurance 29 5m ramp 56-75%\n- Surge 29 2m ramp 76-87%\n- Endurance 30 5m ramp 56-75%\n- Surge 30 1m ramp 95-105%\n- Endurance 31 5m ramp 56-75%\n- Surge 31 1m ramp 76-87%\n- Endurance 32 5m ramp 56-75%\n- Surge 32 2m ramp 95-105%\n- Endurance 33 5m ramp 56-75%\n- Surge 33 3m ramp 76-87%\n- Endurance 34 5m ramp 56-75%\n- Surge 34 2m ramp 95-105%\n- Endurance 35 5m ramp 56-75%\n- Surge 35 1m ramp 76-87%\n- Endurance 36 5m ramp 56-75%\n- Surge 36 1m ramp 95-105%\n- Endurance 37 5m ramp 56-75%\n- Surge 37 2m ramp 76-87%\n- Endurance 38 5m ramp 56-75%\n- Surge 38 3m ramp 95-105%\n- Endurance 39 5m ramp 56-75%\n- Surge 39 2m ramp 76-87%\n- Endurance 40 5m ramp 56-75%\n- Surge 40 1m ramp 95-105%\n- Endurance 41 5m ramp 56-75%\n- Surge 41 1m ramp 76-87%\n- Endurance 42 5m ramp 56-75%\n- Surge 42 2m ramp 95-105%\n- Endurance 43 5m ramp 56-75%\n- Surge 43 3m ramp 76-87%\n- Endurance 44 5m ramp 56-75%\n- Surge 44 2m ramp 95-105%\n\nCooldown\n- 10m ramp 56-40%\n\n[Weekly Plan - Base]",
+      "planned_tss": 299,
       "duration_hours": 0.0
     },
     {
       "id": "event_5",
-      "date": "2026-02-28T09:00:00",
+      "date": "2026-03-01T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- Hi Duppie let's settle in for a long steady ride 15m ramp 40-60% 90rpm\n\n2x\nMain Set\n- Endurance Base 25m 62% 85rpm\n- Tempo Touch 30s 82% 95rpm\n- High Cadence Block 5m 65% 105rpm\n\nCooldown\n- Great endurance work Duppie time to recover 13m ramp 55-40% 80rpm\n\n[Weekly Plan - Base]",
-      "planned_tss": 53,
+      "description": "Warmup\n- Hi Duppie let's settle into a steady rhythm for this long ride 15m ramp 40-56% 90rpm\n\nMain Set\n- Aerobic Base 8m 60% 85rpm\n- Tempo Touch 30s 80% 95rpm\n- Aerobic Base 8m 60% 85rpm\n- Tempo Touch 30s 80% 95rpm\n- Aerobic Base 8m 60% 85rpm\n- Tempo Touch 30s 80% 95rpm\n- Aerobic Base 8m 60% 85rpm\n- Tempo Touch 30s 80% 95rpm\n- Aerobic Base 8m 60% 85rpm\n- Tempo Touch 30s 80% 95rpm\n- Aerobic Base 8m 60% 85rpm\n- Tempo Touch 30s 80% 95rpm\n- Aerobic Base 8m 60% 85rpm\n- Tempo Touch 30s 80% 95rpm\n- Aerobic Base 8m 60% 85rpm\n- Tempo Touch 30s 80% 95rpm\n- Aerobic Base 8m 60% 85rpm\n- Tempo Touch 30s 80% 95rpm\n- Aerobic Base 2m 60% 85rpm\n\nCooldown\n- Great job Duppie keep the legs moving as we finish 10m ramp 55-40% 90rpm\n\n[Weekly Plan - Base]",
+      "planned_tss": 59,
       "duration_hours": 0.0
     },
     {
